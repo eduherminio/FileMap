@@ -5,7 +5,10 @@ using System.IO;
 
 namespace FileMap
 {
-    public static class LocationFinderFactory
+    /// <summary>
+    /// Handles ILocationFinder instances
+    /// </summary>
+    public class LocationFinderFactory
     {
         private static readonly ConcurrentDictionary<int, ILocationFinder> _locationFinders = new ConcurrentDictionary<int, ILocationFinder>();
 

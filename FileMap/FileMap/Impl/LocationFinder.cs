@@ -8,7 +8,7 @@ namespace FileMap.Impl
 {
     internal class LocationFinder : ILocationFinder
     {
-        private const char _separator = '\u0009';
+        private const char _separator = '\u0009';   // Tab char
 
         private string _inputFilePath;
         private string _outputFilePath;
