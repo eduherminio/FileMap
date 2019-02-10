@@ -6,7 +6,7 @@ namespace FileMap.Test
     public class LocationFinderFactoryTest
     {
         private const string _inputFile = "TestFixtures/input.txt";
-        private const string _locsFile = "TestFixtures/locs.txt";
+        private const string _locationsFile = "TestFixtures/locs.txt";
 
         private string OutputFile() => $"TestFixtures/output_{Guid.NewGuid().ToString()}.out";
 
@@ -15,15 +15,15 @@ namespace FileMap.Test
         {
             string outputFile = OutputFile();
 
-            ILocationFinder locationFinder = LocationFinderFactory.GetLocationFinder(_inputFile, outputFile, _locsFile);
+            ILocationFinder locationFinder = LocationFinderFactory.GetLocationFinder(_inputFile, outputFile, _locationsFile);
 
-            Assert.Equal(locationFinder, LocationFinderFactory.GetLocationFinder(_inputFile, outputFile, _locsFile));
+            Assert.Equal(locationFinder, LocationFinderFactory.GetLocationFinder(_inputFile, outputFile, _locationsFile));
         }
 
         [Fact]
         public void ShouldNotGetLocationFinderProvidingNonExistingInputFile()
         {
-            Assert.Throws<ArgumentException>(() => LocationFinderFactory.GetLocationFinder($"C:/{Guid.NewGuid().ToString()}", OutputFile(), _locsFile));
+            Assert.Throws<ArgumentException>(() => LocationFinderFactory.GetLocationFinder($"C:/{Guid.NewGuid().ToString()}", OutputFile(), _locationsFile));
         }
 
         [Fact]
@@ -35,7 +35,7 @@ namespace FileMap.Test
         [Fact]
         public void ShouldNotGetLocationFinderProvidingNonExistingOutputFileParentFolder()
         {
-            Assert.Throws<ArgumentException>(() => LocationFinderFactory.GetLocationFinder(_inputFile, "NonExistingFolder/output.out", _locsFile));
+            Assert.Throws<ArgumentException>(() => LocationFinderFactory.GetLocationFinder(_inputFile, "NonExistingFolder/output.out", _locationsFile));
         }
     }
 }

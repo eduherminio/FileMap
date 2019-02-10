@@ -1,7 +1,9 @@
-﻿namespace FileMap
+﻿using System.Threading.Tasks;
+
+namespace FileMap
 {
     public interface ILocationFinder
     {
-        bool MapLocations();
+        Task MapLocations();
     }
 }

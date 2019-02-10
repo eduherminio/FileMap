@@ -46,6 +46,7 @@ namespace FileMap
             ValidateFileExistence(inputFilePath);
             ValidateFileExistence(locationsFilePath);
             ValidateDirectoryExistence(Path.GetDirectoryName(outputFilePath));
+
             if (File.Exists(outputFilePath))
             {
                 ConsoleColor originalColor = Console.ForegroundColor;
@@ -62,7 +63,7 @@ namespace FileMap
             if (!File.Exists(filePath))
             {
                 throw new ArgumentException(
-                    $"File {filePath} doesn't exists");
+                    $"File {filePath} doesn't exist");
             }
         }
 
@@ -71,7 +72,7 @@ namespace FileMap
             if (!Directory.Exists(directoryPath))
             {
                 throw new ArgumentException(
-                    $"Directory {directoryPath} doesn't exists");
+                    $"Directory {directoryPath} doesn't exist");
             }
         }
     }
