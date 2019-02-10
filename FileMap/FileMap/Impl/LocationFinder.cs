@@ -1,9 +1,7 @@
 ﻿using FileParser;
-using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace FileMap.Impl
@@ -12,18 +10,16 @@ namespace FileMap.Impl
     {
         private const char _separator = '\u0009';
 
-        private readonly string _inputFilePath;
-        private readonly string _outputFilePath;
-        private readonly string _locationsFilePath;
+        private string _inputFilePath;
+        private string _outputFilePath;
+        private string _locationsFilePath;
 
         internal LocationFinder(string inputFilePath, string outputFilePath, string locationsFilePath)
         {
-            _inputFilePath = inputFilePath;
-            _outputFilePath = outputFilePath;
-            _locationsFilePath = locationsFilePath;
+            ConfigureFilePaths(inputFilePath, outputFilePath, locationsFilePath);
         }
 
-        public async Task MapLocations()
+        public Task MapLocations()
         {
             IEnumerable<string> inputList = ReadInputs();
 
@@ -51,6 +47,23 @@ namespace FileMap.Impl
                     outputStreamWriter.WriteLine(ExtractLocationName(pair.Value));
                 }
             }
+
+            return Task.CompletedTask;
+        }
+
+        public Task MapLocations(string inputFilePath, string outputFilePath, string locationsFilePath)
+        {
+            ConfigureFilePaths(inputFilePath, outputFilePath, locationsFilePath);
+
+            return MapLocations();
+        }
+
+        #region Private methods
+        private void ConfigureFilePaths(string inputFilePath, string outputFilePath, string locationsFilePath)
+        {
+            _inputFilePath = inputFilePath;
+            _outputFilePath = outputFilePath;
+            _locationsFilePath = locationsFilePath;
         }
 
         private IEnumerable<string> ReadInputs()
@@ -75,5 +88,6 @@ namespace FileMap.Impl
                 .Substring(tabStartIndex)
                 .TrimStart();
         }
+        #endregion
     }
 }

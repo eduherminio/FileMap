@@ -25,24 +25,26 @@ namespace FileMap.ConsoleClient
             Stopwatch watch = Stopwatch.StartNew();
             ILocationFinder locationFinder = LocationFinderFactory.GetLocationFinder(inputFile, outputFile, locationsFile);
 
+            Console.WriteLine($"Mapping from {inputFile} to {outputFile} using {locationsFile}");
+
             await locationFinder.MapLocations().ContinueWith((task) =>
-            {
-                watch.Stop();
-                ConsoleColor originalColor = Console.ForegroundColor;
-                if (task.IsCompletedSuccessfully)
-                {
-                    Console.ForegroundColor = ConsoleColor.DarkGreen;
-                    Console.WriteLine($"Mapping from {inputFile} to {outputFile} using {locationsFile} was successfully completed");
-                }
-                else
-                {
-                    Console.WriteLine($"Mapping from {inputFile} to {outputFile} using {locationsFile} was completed with errors:");
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine(task.Exception.Message);
-                }
-                Console.ForegroundColor = originalColor;
-                Console.WriteLine($"{watch.ElapsedMilliseconds}ms elapsed");
-            });
+             {
+                 watch.Stop();
+                 ConsoleColor originalColor = Console.ForegroundColor;
+                 if (task.IsCompletedSuccessfully)
+                 {
+                     Console.ForegroundColor = ConsoleColor.DarkGreen;
+                     Console.WriteLine($"Mapping successfully completed");
+                 }
+                 else
+                 {
+                     Console.WriteLine($"Mapping completed with errors:");
+                     Console.ForegroundColor = ConsoleColor.DarkRed;
+                     Console.WriteLine(task.Exception.Message);
+                 }
+                 Console.ForegroundColor = originalColor;
+                 Console.WriteLine($"{watch.ElapsedMilliseconds}ms elapsed");
+             });
         }
 
         private static void PrintHelp()

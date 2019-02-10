@@ -33,5 +33,30 @@ namespace FileMap.Test
                 Assert.Null(outputFileStreamReader.ReadLine());
             }
         }
+
+        [Fact]
+        public async Task MapLocationsOverridingFilePaths()
+        {
+            string initialOutputFile = OutputFile();
+            ILocationFinder finder = LocationFinderFactory.GetLocationFinder(_inputFile, initialOutputFile, _locationsFile);
+
+            string finalOutputFile = OutputFile();
+            await finder.MapLocations(_inputFile, finalOutputFile, _locationsFile);
+
+            using (StreamReader expectedFileStreamReader = new StreamReader(_expectedOutputFile))
+            using (StreamReader outputFileStreamReader = new StreamReader(finalOutputFile))
+            {
+                string expectedLine;
+                while ((expectedLine = expectedFileStreamReader.ReadLine()) != null)
+                {
+                    Assert.Equal(expectedLine, outputFileStreamReader.ReadLine());
+                }
+
+                Assert.Null(outputFileStreamReader.ReadLine());
+            }
+
+            Assert.NotEqual(initialOutputFile, finalOutputFile);
+            Assert.False(File.Exists(initialOutputFile));
+        }
     }
 }

@@ -1,31 +1,30 @@
 ﻿using FileMap.Impl;
 using System;
-using System.Collections.Generic;
+using System.Collections.Concurrent;
 using System.IO;
 
 namespace FileMap
 {
     public static class LocationFinderFactory
     {
-        private static readonly Dictionary<int, ILocationFinder> _locationFinders = new Dictionary<int, ILocationFinder>();
+        private static readonly ConcurrentDictionary<int, ILocationFinder> _locationFinders = new ConcurrentDictionary<int, ILocationFinder>();
 
+        /// <summary>
+        /// Gets an ILocationFinder instance
+        /// </summary>
+        /// <param name="inputFilePath">Input file path</param>
+        /// <param name="outputFilePath">Output file path (will be overwritten)</param>
+        /// <param name="locationsFilePath">Locations file path</param>
+        /// <returns></returns>
         public static ILocationFinder GetLocationFinder(string inputFilePath, string outputFilePath, string locationsFilePath)
         {
             ValidateFilePaths(inputFilePath, outputFilePath, locationsFilePath);
 
             int hashCode = CalculateStringListHashCode(inputFilePath, outputFilePath, locationsFilePath);
 
-            if (_locationFinders.TryGetValue(hashCode, out ILocationFinder existingLocationFinder))
-            {
-                return existingLocationFinder;
-            }
-            else
-            {
-                ILocationFinder newLocationFinder = new LocationFinder(inputFilePath, outputFilePath, locationsFilePath);
-                _locationFinders[hashCode] = newLocationFinder;
+            _locationFinders.GetOrAdd(hashCode, new LocationFinder(inputFilePath, outputFilePath, locationsFilePath));
 
-                return newLocationFinder;
-            }
+            return _locationFinders[hashCode];
         }
 
         private static int CalculateStringListHashCode(params string[] strings)
