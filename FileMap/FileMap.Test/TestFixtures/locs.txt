@@ -1,0 +1,4072 @@
+﻿ABCWM	Abercwmboi
+ABDATRE	Trecynon
+ABDVY	Aberdovey
+ABGNWYN	Abergynolwyn
+ABHLTB	Abbeyhill Turnback Sidings
+ABINDS	Abington Down Sidings
+ABINUPL	Abington U.P.L.
+ABRCYNS	Abercynon
+ABRD75	Aberdeen Signal A75
+ABRDEEN	Aberdeen
+ABRDFGL	Aberdeen Ferryhill GL
+ABRDGBR	Aberdeen Guild Street GBRF
+ABRDNHS	Aberdeen H.S.
+ABRDRSL	Aberdeen Russell J.G.
+ABRDWAT	Aberdeen Waterloo
+ABRFRWD	Aberffrwd
+ABRGS38	Abergavenny Sig 38
+ABRYAFO	Afon Wen L.C.
+ABRYSHE	Aberystwyth Shell Sdgs
+ABTH	Aberthaw
+ABTH231	Aberthaw Signal AW231
+ABTHA13	Aberthaw Signal A13
+ABTHLAF	Aberthaw Cement Works
+ABTHPST	Aberthaw Pwr Stn Fliner Hvy Hl
+ABTHWCC	Aberthaw Cement Works
+ACBG	Acton Bridge
+ACGJNLX	Norton LC (Acton Grange)
+ACHHBLC	Balnacra LC
+ACHILCK	Auchinleck
+ACHNSCE	Achnasheen C.E.
+ACKLNGT	Acklington
+ACRNGTN	Accrington
+ACTNCTL	Acton Central
+ACTOGBR	Acton Yard GBRF
+ACTONFY	ACTON FOSTER YEOMAN
+ACTONW	Acton West
+ACWL149	Acton Wells Jn SIG AW149
+ADERLYP	Adderley Park
+ADISHAM	Adisham
+ADLESTN	Addlestone
+ADSWDRD	Adswood Road Jn
+AGCRFTJ	Agecroft Jn
+AIGBURT	Aigburth
+AINTREE	Aintree
+AIRBLES	Airbles
+AIRDRIE	Airdrie
+AISGILL	Ais Gill
+ALBNFCL	Albany Park-Footscray Lane
+ALBNYPK	Albany Park
+ALDBUCS	Aldersbrook CS
+ALDGEST	Aldgate East
+ALDMSPS	Aldermaston Padworth Sdgs
+ALDRS15	Aldershot Signal AS15
+ALDRSJN	Aldershot North Jn
+ALDTON	Aldrington
+ALDW738	Aldwarke Junction Sig S738
+ALDWNWS	Aldwarke U.E.S.
+ALDWRS	Aldwarke Repair Sidings
+ALERTNJ	Allerton Jn
+ALEXPSS	Alexandra Palace Sand Sdg
+ALLENSW	Allens West
+ALLGREV	Allington A.R.C Reverse
+ALLOALP	Alloa Loop
+ALNGJN	Allington Jn
+ALNMILL	Little Mill LC
+ALRSBUS	Alresford (Swan)
+ALRWAS	Alrewas L.C.
+ALSAUDG	Alsager Up & Dn Gds Loop
+ALSCTSW	Allscott Sdgs
+ALSTONS	Alstone C.H.S.
+ALTHORN	Althorne
+ALTOBUS	Alton (High Street)
+ALTPE	Althorpe
+ALVCHRC	Alvechurch
+ALVES	Alves Jn
+ALXNUDG	Alexandra Docks UDG
+AMBERGJ	Ambergate Jn
+AMBRIEU	Amberieu
+AMERSHM	Amersham
+AMLWOCT	Amlwch Assoctd Octel Sdg
+AMMANFD	Ammanford
+AMNG462	AMINGTON JN SIG NL9462
+AMNG490	AMINGTON JN SIG NL3490
+AMPTNLS	Ampthill Tunnels
+AMSTSCH	Amsterdam Schiphol
+ANCASTR	Ancaster
+ANDOKMR	Andover Sidings
+ANDOYD	ANDOVER YARD
+ANERLEY	Anerley
+ANGOLEM	Angouleme
+ANGRMAR	Angerstein Wharf - Marcon
+ANGRTAR	Angerstein Wharf (Tarmac)
+ANNAN	Annan
+ANSL	Anniesland
+ANSTYXR	Ansty Cross Roads
+APDR	Appledore (Kent)
+APLHRSJ	Applehurst Jn
+APPLADV	Appleford (ADVENZA)
+APPLEFS	Appleford Sidings
+APPLFHH	Appleford FHH
+ARAS	Arras
+ARBRURS	Arbroath U.R.S.
+ARCHRAT	Arrochar & Tarbet
+ARDGAY	Ardgay
+ARDLUCE	Ardlui C.E.
+ARDNGLY	Ardingly
+ARDRSHB	Ardrossan Harbour
+ARDWCKJ	Ardwick Jn
+ARDWKEJ	Ardwick East Jn
+ARGYLST	Argyle Street
+ARISCE	Arisaig C.E.
+ARKLSTW	ARKLESTON WEST
+ARKW	Arklow
+ARLSCAD	Cadwell
+ARMADLE	Armadle (Skye)
+ARMLJCN	Armley Junction
+ARNSIDE	Arnside
+ARPLHOL	Warrington Appley (Hole)
+ARPLYFA	Warrington Fuelling Point
+ARUNDLJ	Arundel Jn
+ASBRDGE	Ash Bridge Junction
+ASCO506	Ascot Signal F506
+ASCOT	Ascot
+ASFIELD	Ashfield
+ASHBAWS	Ardwick West Sdgs (EWS)
+ASHBREJ	Ashburys East Jn
+ASHBRSY	Ashburys S.S.
+ASHC453	Ashchurch Signal G453
+ASHCMOD	Ashchurch MOD Sidings
+ASHF119	Ashford Signal AD2119
+ASHF878	Ashford Signal AD878
+ASHFCR	Ashford Crane Depot
+ASHFDNS	Ashford Down Sidings
+ASHFEJN	Ashford East Junction
+ASHFKDY	Ashford Down Yard
+ASHFKY	Ashford International
+ASHFWJN	Ashford West Junction
+ASHH331	Ash Signal GD1331
+ASHIMSB	Ashton in M Stop Board
+ASHJNCE	Ashton Junction (CE)
+ASHONUL	Ashton-under-Lyne
+ASHUJN	Ashurst Jn
+ASHVALE	Ash Vale
+ASKRNLC	Norton Level Crossing
+ASLYBJN	Astley Bridge Jn
+ASPTRIA	Aspatria
+ASTON	Aston
+ATHERTN	Atherton
+ATHLNEY	Athelney Crossing
+ATLB533	Attleborough Jn Sig RN9533
+ATLBRNJ	Attleborough North Jn
+ATNBROJ	Attenborough Jn
+ATTREWS	Attercliffe Sdgs EWS
+AUCHTER	Auchterarder
+AULDGTH	Auldgirth
+AVIEDRS	Aviemore DRS ISU (CE)
+AVIEMRS	Aviemore (Speyside)
+AVIGVIL	Avignon Ville
+AVONADV	Avonmouth (ADVENZA)
+AVONBEN	Avonmouth Bennetts Siding
+AVONBHT	Avonmouth BBHT Coal Silos
+AVONMCM	Avonmth Chittening Estate
+AVONNPT	Avonmouth National Power
+AVONWWF	Avonmouth No.5 Wharf EWS
+AXMNSEJ	Axminster East Junction
+AXMNSTS	Axminster Station
+AYLESFD	Aylesford
+AYLSCCD	Aylesbury C.C.D.
+AYLSNL	Aylesbury North Loop
+AYLSWAD	Waddesdon Manor
+AYNH502	Aynho Signal BS5002
+AYRR	Ayr
+AYRR853	Ayr Sig. PA853
+AYRRCSD	Ayr C.S.D.
+AYRRHBR	Ayr Harbour
+AYRRWRD	Ayr W.R.D.
+BABWTHL	Babworth Loop
+BAGE	Burnage
+BAGSHOT	Bagshot
+BAGWKM	Kirby Muxloe
+BAILDON	Baildon
+BAKEWEL	Bakewell Square
+BALCOMB	Balcombe
+BALHJN	Balham Jn
+BALLOCH	Balloch
+BAMFORD	Bamford
+BANG37	Bangor Sig. BR37
+BANGRTC	Bangor Tunnel Cement
+BANSTED	Banstead
+BARAFHH	Barrassie FHH
+BARASIE	Barassie
+BARCEMR	Barcelona El Morrot
+BARDGBR	Bardon Hill GBRF
+BARDONH	Bardon Hill
+BARELAJ	Bare Lane Junction
+BARH379	Barham Ground Sig C01379
+BARHFHH	Barham FHH
+BARKADV	Barking Advenza Freight
+BARKG21	Barking Signal BK 21
+BARKING	Barking
+BARKUPJ	Barking Upney Junction
+BARMING	Barming
+BARNES	Barnes
+BAROW	Barrow-in-Furness
+BAROWEW	Barrow Docks (ABP)
+BAROWRD	Barrow Ramsden Dock
+BARRABP	Barry Docks ABP Shipment
+BARRDAZ	Barry Docks Advenza
+BARRDNS	Barry DKS ABP Nonshipment
+BARRHEX	Barry Docks Hexion
+BARRYDK	Barry Docks
+BASCSDG	Baschurch Sidings
+BASESGG	Basel Sbb Gb Gti
+BATABAL	Bat & Ball
+BATHGSL	Bath Goods Loop
+BATLEY	Batley
+BATRSH	Battersea Pier Staff Halt
+BATRSYD	Battersea Loop
+BATTLE	Battle
+BBGHGL	Barton & Broughton Pass Loop
+BCHGRV	Birchgrove
+BCKLWCS	Buckley Wells CS(E.L.RLY)
+BCKNBUS	Beckenham Jn (Up Side-Bus)
+BCKNHMJ	Beckenham Junction
+BCKWATR	Blackwater
+BCNSFLD	Beaconsfield
+BCST189	Bicester North Signal 189
+BCSTARD	Ardley
+BCSTBUS	Bicester Bure Place
+BCSTGF	Bicester C.O.D. G.F.
+BCSTN	Bicester North
+BCWD	Bricket Wood
+BDHMNRD	Bedhampton (New Road)
+BDLNMHJ	Marcheys House Jn
+BDLNTNX	Bedlington Nth. L.C.
+BDSTNDJ	Bidston Dee Jn
+BDSTON	Bidston
+BEAL	Beal L.C.
+BEAMMLJ	Beam Mill Jn.
+BEASDAL	Beasdale
+BEATCK	Beattock
+BEATDPL	Beattock D.P.L.
+BEATSUL	Beattock Summit U.P.L.
+BEAULY	Beauly
+BECCLES	Beccles
+BECKHAX	Haxey & Epworth Crossover
+BEDFBUS	Bedford Bus Station
+BEDFDJS	Bedford Jowett Sdgs
+BEDFDN	Bedford North Jn.
+BEDFDWR	Bedford Wash Road
+BEDFMIL	Millbrook
+BEDYN	Bedwyn
+BEGHEAL	Beighton Depot E Allen
+BEGHTND	Beighton Depot
+BEGHWES	Westthorpe Run Round
+BELFORD	Belford L.C.
+BELM	Belmont
+BELNGMS	Bellingham Siding
+BELTLC	Belmont Level Crossing
+BEMPSPE	Speeton
+BENFLET	Benfleet
+BENTKIL	Killingworth
+BENTON	Benton Nth Jn
+BERKHMD	Berkhamsted
+BERWICK	Berwick
+BESJOHN	Bedford St.Johns
+BEST344	Beeston Signal 344
+BESTADV	Beeston Sims Metal Advenza
+BESTGBR	Beeston Sims Metals GBRf
+BESTNMC	Beeston Sims Mcintyre Ltd
+BESTNSJ	Beeston South Jn
+BESTRR	Beeston Run Round
+BETLRSB	Betley Road SB
+BEVERLY	Beverley
+BEXHGF	Bexhill Ground Frame
+BGEDSLJ	BARGOED SINGLE LINE JN
+BGHDDCL	Burghead D.C.L.
+BGLNBC	Baglan Bay (COLAS)
+BGLNRPT	BAGLAN BAY RPT (COLAS)
+BGLWJN	Burngullow Jn
+BGRN	Barnt Green
+BHAM190	B'HAM MOOR ST SIG WM190
+BHAMAIR	Birmingham Airport
+BHAMISJ	Bham Inter S Jn
+BHAMMRS	Birmingham Moor Street
+BHAMNBL	Birmingham New St Ballast
+BHAMNHS	Birmingham New Street H.S.
+BHAMSHT	Birmingham Snowhill Turnback Sdg
+BHAMSYJ	Duddeston Jn
+BICK626	Bickley Signal VS626
+BICKLYJ	Bickley Jn
+BIGLSWD	Biggleswade
+BILE572	Liverpool Street Sig L572
+BINGHAM	Bingham
+BIRKBCK	Birkbeck
+BISLND	Burntisland
+BITERNE	Bitterne
+BKHLS	Brockholes
+BKNH16	Brockenhurst Signal BH16
+BKNHRST	Brockenhurst
+BKSWELL	Berkswell
+BLAE4GF	Blaenau Ffestiniog No.3 GF
+BLAIRHL	Blairhill
+BLAR34	Blair Atholl Sig 3-4
+BLARDS	Blair Atholl Down Sidings
+BLCHSRD	Blackhorse Road
+BLCKNHS	Blackpool North H.S.
+BLCKS	Blackpool South
+BLDHU	Baldhu
+BLEMUGL	Blea Moor U.G.L.
+BLFD	Blackford
+BLFR	London Blackfriars
+BLFRCHS	Blackfriars C.H.S.
+BLFSTCL	Belfast Central
+BLFSTPT	Belfast Port
+BLGR785	Bellgrove Sig YS785
+BLHSJN	Blackhouse Jn
+BLKB444	Blackburn Signal 444
+BLKBBFG	Blackburn Pg Fogarty
+BLKBNBJ	Blackburn Bolton Jn
+BLKBNTS	Blackburn Taylor Street
+BLKST	Blake Street
+BLLVUE	Belle Vue
+BLNGHMJ	Billingham Jn
+BLNGRFS	Billingham RFS Eng
+BLOXN	Bloxwich North
+BLOXWCH	Bloxwich
+BLSHL	Bellshill
+BLSVCW	Bolsover C&W EWS
+BLTCCAM	Bletchley Cambridge Sdngs
+BLTCCS	Bletchley C.S.
+BLTCDS	Bletchley Down Sidings
+BLTCHLY	Bletchley
+BLTCSN	Bletchley Shunt Neck
+BLTCSTE	Bletchley ISU (S&TE)
+BLTCUGL	Bletchley Up Goods Loop
+BLTCYD	Bletchley Yard
+BLUANCR	Blue Anchor (X)
+BLWLOC	Blindwells Opencast
+BLYBLLC	Leigh Level Crossing
+BLYTCW	Blyth EWS C&W
+BMBRCE	Bamber Bridge ISU (CE)
+BMBRWI	Bamber Bridge Whittle Int.
+BMLY	Bramley (Hants)
+BNBR12	Banbury Signal 12
+BNBRCAT	Banbury Cattle Rd Sidings
+BNBRTS	Banbury Tamper Siding
+BNBRYFY	Banbury Reservoir F.Y.
+BNBRYRA	Banbury Reservoir Rland A
+BNDO19	Brandon Shunt Signal B19
+BNDODSU	Brandon Up Refuge Sidings
+BNDSBPL	Bounds Green By Pass
+BNDSGRN	Bounds Green T&R.S.M.D
+BNHAM	Burnham
+BNHOUSE	Burnhouse (Mossend)
+BNKJN	Bank Jn
+BNRTH	Bridgnorth
+BNSLY	Barnsley
+BNTBDS	Barnetby Down Sidings
+BNTBUS	Barnetby Up Sidings
+BNTEY	Bentley
+BNTLEY	Bentley (Suffolk)
+BNWDJN	Barnwood Jn
+BOATOFG	Boat of Garten
+BODMINS	Bodmin Siding
+BODMNPW	Bodmin Parkway
+BODORGN	Bodorgan
+BOGNBAL	Bognor Regis (Ballast)
+BOGNMR	Bognor Middle Road
+BOGNSID	Bognor Sidings
+BOKNTRE	Boat of Kintore
+BOLTNCS	Bolton C.S.
+BOMO	Bournemouth
+BOMOCS	Bournemouth C.S.D.
+BOMODD6	Bournemouth Depot D6
+BOMOMS	Bournemouth Middle Sdg
+BOMOXTN	Bournemouth Extension
+BONSDPL	Bo'ness D.P.L.
+BONSS	Bo'ness
+BOOKHAM	Bookham
+BOORCHY	Bridge of Orchy
+BOOTDUG	Bootle Down & Up Gds Line
+BOOTLE	Bootle (Cumbria)
+BOOTLOR	Bootle Oriel Road
+BORDBAS	Bordeaux-Bastide
+BORGSTM	Bourg St. Maurice
+BORN412	Bourne End Signal WT1412
+BORN421	Bourne End Signal WT1421
+BOROBDR	Boroughbridge Rd. L.C.
+BORTH	Borth
+BORW303	Borough Green Signal ME303
+BOSHAM	Bosham
+BOSTNSS	Boston Station Sidings
+BOSTSLS	Boston Sleaford Sidings
+BOTESWJ	Bottesford West Jn
+BOTLYFY	Botley Aggregate Sdgs.
+BOULFHH	Boulby Mine Carlin How FHH
+BOWBRKH	Bow Brickhill
+BOWDECC	Bow ECCQ Private Sidings
+BOWDGBR	Bow Olympics (GBRf)
+BOWDOLE	Bow East FLHH (Olympics)
+BOWESPK	Bowes Park
+BOWJ506	Bow Jn Sig L5069
+BOWLESO	Bowling ESSO
+BOWSFLD	Bowesfield Jn.
+BRACETC	Bracknell Emergency  X over
+BRADFS	Bradford Forster Square
+BRAINFP	Braintree Freeport
+BRAMPTN	Brampton (Suffolk)
+BRAY	Bray
+BRBDNRG	Barnby Dun Rockware Glass
+BRBGJN	Bromford Bridge Jn
+BRBM	Broadbottom
+BRCKLAJ	Bricklayers Arms Jn
+BRDFDJN	Bradford Jn
+BRDGCRL	Bridgwater Charterail
+BRDGUGF	Bridgwater Up Sdg GF
+BRDHRST	Braidhurst
+BRDHSTU	Braidhurst Up Loop
+BRDLNGT	Bridlington
+BRDS	Bordesley
+BRDSLYJ	Bordesley Jn.
+BRDSLYY	Bordsley T.C.
+BRDWJN	Bradwell Junction
+BREDBRY	Bredbury
+BREDTCN	Bredbury Tilcon
+BRENTCJ	Brent Curve Jn
+BRFRY	Broughty Ferry
+BRGBRSE	Bourg-en-Bresse
+BRGE602	Bridgend Signal PT602
+BRGEDFS	Bridgend Ford Sidings
+BRGEND	Bridgend
+BRGH257	Brighton Signal 1257
+BRGHBAL	Brighton (Ballast)
+BRGHLHS	Brighton L.H.S.
+BRGHRC	Brighton Reception Road
+BRGHTTY	Brighton S.S.
+BRGSJN	BRIDGES JN
+BRHLFF	Barrow Hill (FF)
+BRHLJN	Barrow Hill North Jcn
+BRHLLIP	Barrow Hill L.I.P.
+BRHM	Barnham
+BRHM122	Barnham Signal BH122
+BRHOUSE	Brighouse
+BRIDGTN	Bridgeton
+BRIERFL	Brierfield
+BRIGICI	Briggs I.C.I. Sdgs
+BRINKLW	Brinklow
+BRIRLYF	BRIERLEY HILL FLHH
+BRITFRY	Briton Ferry
+BRITONF	Briton Ferry Yard
+BRIXTON	Brixton
+BRKLNDS	Brooklands
+BRKN570	Birkenhead North Signl 570
+BRKN577	Birkenhead North Signl 577
+BRKN718	Birkenhead Central Sig 718
+BRKNCPK	Conway Park
+BRKNEWR	B'Head Nth Emud Washer Rd
+BRKNHDN	Birkenhead North
+BRKNMUD	Birkenhead North E.M.U.D
+BRKRJUN	Berkeley Rd Jn
+BRKTNL	Birkett Tunnel
+BRKWDLE	Brookwood London End
+BRLEYPK	Burley Park
+BRLYWJN	Bradley Wood Jn
+BRMCRSS	Bromley Cross
+BRMHSJN	Holehouse Jn
+BRMPTNC	Brampton (Cumbria)
+BRMS463	Bromsgrove Sig. G463
+BRNAMKT	Burnham Market
+BRNCHTN	Branchton
+BRNDFHH	Brindle Heath R.T.S. (FLHH)
+BRNDRTS	Brindle Heath R.T.S.
+BRNHPSJ	Perry Street Fork Jn
+BRNKNOL	Brent Knoll
+BRNNVCM	Burn Naze Vcm Sdgs
+BRNSSDG	Barons Court Lay By Sidings
+BRNTDS	Brentford Town Day &.Sons
+BRNTGLC	Brentfd Tn W.Waste R.T.S
+BRNZETT	Brenzett
+BROCKLY	Brockley
+BROKGTS	Brookgate Sidings
+BROMBLT	Bromley-By-Bow LT
+BRONLPT	Angerstein Wharf (Bardon)
+BRORA	Brora
+BRORDLC	Dalchalm L.C.
+BROUGH	Brough
+BROWNCE	Brownhill C.E.
+BROWUPL	Brownhill U.P.L.
+BROXBRN	Broxbourne
+BROXDPL	Broxbourne Down Pass Loop
+BROXS14	Broxbourne Sig L1484
+BROXS31	Broxbourne Sig L5315
+BRRYLNK	Barry Links
+BRSCGHJ	Burscough Junction
+BRSS175	Bath Goods SIG B175
+BRSS423	Bristol TM Signal 423
+BRSTEDC	Bristol East Depot R.C.E
+BRSTFLT	Bristol Freightliner Trml
+BRSTLBH	Bristol Barton Hill EWS
+BRSTLED	Bristol East Depot EWS
+BRSTLTM	Bristol Temple Meads
+BRSTMJD	Bristol March Jn Depot
+BRSTPWY	Bristol Parkway
+BRSTSTE	Bristol Kingsland Rd S&TE
+BRTHMBR	Barton-on-Humber
+BRTLYJN	Birtley Jn
+BRTWOOD	Brentwood
+BRUNDAL	Brundall
+BRUTON	Bruton
+BRUXMID	Bruxelles Midi
+BRWCKUT	Berwick-upon-Tweed
+BRWHBEJ	Boldon East Jn
+BRWHINS	Brockley Whins
+BRWNHLS	Brownhills
+BRYSTNS	Braystones
+BSAUKLD	Bishop Auckland
+BSBYJDG	Bushbury Jn, D.G.L.
+BSCTCJN	Bescot Curve Jn
+BSCTJN	Bescot Jn
+BSCTSTA	Bescot Stadium
+BSCTULP	Bescot Up Loop
+BSCTUYD	Bescot Up Yard
+BSEAFST	Battersea Festival
+BSHPSCH	Charrington CCD
+BSHPSFY	Bishops Stortford Recp.
+BSNG105	Basingstoke Signal B5105
+BSNG114	Basingstoke Signal YW114
+BSNGDES	Basingstoke Dn E End Sdg
+BSNGSEB	Basingstoke East Bay
+BSNGSTK	Basingstoke
+BSNGW34	Basingstoke Signal BE547
+BSPSBUS	Bishops Lydeard L Arms
+BSPSLYD	Bishops Lydeard, WS Rwy
+BSSNBUS	Bishopstone (Hill Rise)
+BSTED19	Bury St Edmunds Sig BY 19
+BSTEDGL	Bury St Edmunds Down Goods Loop
+BSTEFHH	Bury St Edmunds FHH
+BSTNGF	Bayston Hill G.F.
+BTCHBUS	Betchworth (A25)
+BTCHWTH	Betchworth
+BTHGATE	Bathgate
+BTHGEJ	Bathgate East Jn
+BTHLYJN	Barthomley Jn
+BTHM502	Bathampton Sig. B502
+BTHNLGN	Bethnal Green North Jn
+BTHNLGW	Bethnal Green West Jn
+BTLYJN	Bentley Jn
+BTLYXO	Bentley Crossover
+BTNUNNJ	Barton Under Needwood North Jn
+BTRSBY	Battersby
+BTSDSJN	BRIGHTSIDE JN
+BUCKNHM	Buckenham
+BUGLE	Bugle
+BUILTHR	Builth Road
+BULWLSJ	Bulwell South Jn
+BUNT	Burnt Tree
+BURLYIW	Burley-in-Wharfedale
+BURNLYC	Burnley Central
+BURSLDN	Bursledon
+BURTBJN	Branston Jn
+BURTNMH	Burton OT West Yard FT
+BURTNOT	Burton-on-Trent
+BURTTML	Burton Road and Rail TML
+BURTWS	Wetmore Sdgs
+BUSBY	Busby
+BUSHEY	Bushey
+BUTRFHH	Butterwell Opencast (FLHH)
+BUTROCT	Butterwell Opencast
+BUURSTN	Burston
+BUXTMP	Buxton Market Place
+BUXTON	Buxton
+BWEL726	Blackwell South Sig TC4726
+BWELFHH	Blackwell FHH
+BWLGJN	Bowling Jn
+BYFLANH	Byfleet & New Haw
+BYNEA	Bynea
+CAARMNT	Carmont
+CADOB9	Cadoxton Signal B9
+CAERGWL	Caergwrle
+CAEUSQU	Caerau (Square)
+CALAEES	Calais Eurotunnel Emgcy S
+CALAFD	Calais Frethun Depot
+CALAFT	Calais Frethun (Tunnel)
+CALATSH	Calais Tunnel South H.S
+CALDONL	Caldon Low
+CALVADV	Calvert (ADVENZA)
+CALVGBR	Calvert GBRF
+CAMB149	Cambridge Sig CA149
+CAMB540	Whittlesford Sig CA540
+CAMBCE	Cambridge ISU (CE)
+CAMBDGE	Cambridge
+CAMBDNJ	Cambridge North
+CAMBGTC	Cambridge T.C.
+CAMBTGB	Cambridge DGL North GBRF
+CAMBYFL	Cambridge Yard FL
+CAMHTH	Cambridge Heath
+CANKLOW	Canklow Loop
+CANNA	Canna
+CANOSDG	Cannon Street Sidings
+CANT637	Canton Signal C637
+CANTISK	Cardiff Canton D.C.A.
+CANTONS	Canton Sidings
+CANVLB	Canvey Leigh Beck
+CAPELDR	Capeldrae
+CARD305	Cardiff Signal 305
+CARD430	Cardiff Sig. C430
+CARDCSS	Cardiff Docks Coastal Ship
+CARDFBR	Cardiff Bay
+CARDFQS	Cardiff Queen Street
+CARDFTA	Cardiff Tidal Advenza
+CARDGBR	Cardiff Tidal TC GBRf
+CARDRIV	Cardiff Riverside
+CARFIN	Carfin
+CARK	Cark
+CARL465	Carlisle Sig. CE 465
+CARLAME	CARLISLE YARD COLAS RAIL
+CARLBJN	Bog Jn
+CARLCJN	Caldew Jn
+CARLDRS	Carlisle No1 D R SDG
+CARLHFH	Carlisle H Wapping Sdg FHH
+CARLILY	Carlisle Network Yard
+CARLLR	Carlisle London Road
+CARLTMD	Upperby T.M.D.
+CARLUES	Carlisle Upperby C.E.Sdgs
+CARLUMD	Carlisle Upperby TMD
+CARLUTG	Upperby Up Through G.L.
+CARMYLE	Carmyle
+CARPSJN	Carpenters Road South Jn
+CARRCE	Carrbridge Siding ISU (CE)
+CARWENT	Caerwent
+CATECHS	Caterham Sidings
+CATFBDG	Catford Bridge
+CATHCE	Cardiff Cathays ISU (CE)
+CATTHOP	Hopperton
+CAVRSWL	Caverswall
+CBARPAR	Castle Bar Park
+CBGH	Crowborough
+CBOMJAB	Castle Bromwich Jaguar
+CBORRXO	Roskear Crossover
+CBRK	Cranbrook
+CCBNPH	Cockburnspath
+CCKNFHH	Cockenzie Power Stn (FHH)
+CCRT	Cathcart
+CCRTNJN	Cathcart North Jn
+CDCOT	Caldicot
+CDDRCES	Cadder C.E. Sdgs
+CDND	Cardenden
+CDNL567	Cardonald Signal G567
+CDNLNJN	Cardonald North Jn
+CDNRPFM	Codnor Pk FRG & MNMNT Sdg
+CDNRT92	Codnor Park JnSig.Tt92
+CDONEDC	Castle Donington EDMC
+CEDARJN	Cedar Junction
+CEILYDN	Cei Llydan
+CESTAZ1	Chesterton AFL 1
+CESTFHH	Chesterton Junction FHH
+CESTRTB	Chesterton Junction Ballast
+CESTRTR	Chesterton Redland Sdg
+CFLDJN	Castlefield Jn.
+CFTNRJN	Crofton Road Jn
+CHALLOW	Challow
+CHAPLTN	Chapelton
+CHASNRD	Chassen Road
+CHATDGB	Chatham Dockyard GBRF
+CHBURY	Charlbury
+CHCHSOS	Chichester Oil Sidings
+CHDH	Cheadle Hulme
+CHDHSJ	Cheadle Hulme South Jn
+CHDWHLJ	Chadwell Heath Junction
+CHDWLHT	Chadwell Heath
+CHELFD	Chelford
+CHEPEGF	Chepstow East G.F.
+CHES139	Cheshunt Jn Sig L1395
+CHETNOL	Chetnole
+CHFDS14	Chesterfield Sub-Sig S14
+CHFIELD	Charfield
+CHHLCHR	Christon Bank
+CHINCS5	Chingford Country End Sdgs
+CHIRK	Chirk
+CHIRKKN	Chirk Kronospan
+CHITSHL	Chitts Hill
+CHLKWEL	Chalkwell
+CHLMBHC	Chelmsford Brick House Xov
+CHLMDGL	Chelmsford DGL
+CHLSFLD	Chelsfield
+CHLTALC	Alstone L.C.
+CHLTNHS	Cheltenham High Street
+CHLWTH	Chilworth
+CHMSRPG	Dalmellington Ayrshire RPG
+CHNELUL	Channelsea Up Loop
+CHNLYNJ	Chinley North Jn
+CHNOBUS	Chipping Norton West St
+CHNRLOW	Chinnor Low Road
+CHNRWHT	Chinnor The Wheatsheaf
+CHORLEY	Chorley
+CHOS	Church & Oswaldtwistle
+CHPSDBY	Chipping Sodbury
+CHPWKSM	Chappel & Wakes Colne SMSM
+CHRNGXG	Charing Cross
+CHRTLCN	Chart Leacon T&R.S.M.D
+CHRXBAL	Charing Cross (Ballast)
+CHSD	Chipstead
+CHSRD	Chester Road
+CHSSN	Chessington North
+CHST106	Chester Sig. CR106
+CHSTBLP	Chester Bache Loop
+CHSTRCW	Chester C.arr & Wagon MD
+CHSTRDT	Chester Down Through Line
+CHSTRMY	Chester Middle Yard
+CHSTRSJ	Chester South Jn.
+CHSTYD	Chester Yard
+CHTISHM	Chettisham
+CHTMHJN	Cheetham Hill Jn
+CHTR	Cherry Tree
+CHUNCTR	Eurotunnel Boundary (CTRL)
+CHUNFRC	French Tunnel Crossover
+CHUNUKC	Uk Tunnel Crossover
+CHURCHL	Church Lane L Xing
+CIVI	Park Lane (Sunderland)
+CKHLCSD	Corkerhill C.S.M.D.
+CLACTON	Clacton-on-Sea
+CLAPTNJ	Clapton Jn
+CLAVRDN	Claverdon
+CLAYSTR	Stretton
+CLAYXSJ	Clay Cross South DGL
+CLCH072	Colchester Signal CO 1072
+CLCH750	COLCHESTER SIGNAL 750
+CLCH822	Colchester Signal 822
+CLCHGL	Colchester Goods Loop
+CLCHHYT	Hythe
+CLCHSTR	Colchester
+CLCHSWY	Stanway
+CLCHUSS	Colchester Sudbury Dock
+CLDHMLJ	Coldham Lane Jn
+CLDRCRX	Caldercruix
+CLELACE	Cleland C.E.
+CLFFBM	Cliffe Brett Marine
+CLFHJN	Cliff House Jn.
+CLHY	Clachnaharry
+CLIFHGF	Cliff Hill Ground Frame
+CLIFLHH	Cliff Hill Stud Fm Tarmac
+CLIPFHH	Clipstone Colliery (FHH)
+CLITHJN	Horrocksford Jn
+CLMLJN	Clay Mills Jn
+CLNYBDJ	Clunybridge Jn
+CLOCKHS	Clock House
+CLPH122	Clapham Jn Sig. CY122
+CLPH149	Clapham Junc Signal W149
+CLPHJCS	Clapham Jn. C.S.
+CLPHJLP	Clapham Junction Loop
+CLPHMJC	Clapham Junction (C)
+CLPHMJN	Clapham Junction
+CLPHMYM	Clapham Yard
+CLPHPHS	Clapham Jn Pig Hill Sdgs
+CLPLLP	Claypole Loop
+CLPSTEJ	Clipstone East Jn
+CLRBROJ	Clarborough Jn
+CLRNCEP	Clarence Pier
+CLST	Chester-le-Street
+CLSTPLA	Plawsworth
+CLUNSIB	Clunes I.B.
+CLVRTRJ	Culvert Road Jn
+CLYBANK	Clydebank
+CLYHRSS	Collyhurst Street
+CLYTNWJ	Clayton West Junction
+CMBH	Cwmbach
+CMBRABT	Abronhill Tunnel
+CMBRNLD	Cumbernauld
+CMDN202	Camden Jn Signal 1202
+CMDN801	Camden Jn Signal WM801
+CMDNJN	Camden Jn
+CMDNRD	Camden Road
+CMDNRIJ	Camden Road Incline Jn
+CMER	Cromer
+CMTHDSD	Carmarthen Down Sdgs
+CMTHNBG	Carmarthen Bridge
+CMTHWAR	Camarthen Warehousing
+CMTRYNH	Cemetery North Jn.
+CNBKBAA	Colnbrook BAA Logistics
+CNBKELF	Colnbrook Elf Oil
+CNCK	Cannock
+CNCKMOC	Mid Cannock Open Cast
+CNESCOS	Coltness Costain
+CNNB	Canonbury
+CNNBYWJ	Canonbury West Jn
+CNNGALC	Alconbury
+CNNGTIP	Connington Tip
+CNRYNP	Cairnryan (Loch Ryan Port)
+CNTBE	Canterbury East
+CNTBE5	Canterbury East Signal CB5
+CNTBW1	Canterbury West Shunt Sg 1
+CNTBWGL	Canterbury West Up Siding
+CNTY	Carntyne
+COAT250	Coatbridge Signal M250
+COATBDC	Coatbridge Central
+COATBDS	Coatbridge Sunnyside
+COATDYK	Coatdyke
+COBB	Cobbinshaw
+COCKETW	Cockett West
+CODNBCH	Cooden Beach
+COGAN	Cogan
+COGLOAD	Cogload Jn
+COLESH	Coleshill EWS
+COLFORD	Coleford
+COLNE	Colne
+COLSDNS	Coulsdon South
+COLTONN	Colton North Junction
+COLWHXN	Hixon
+COMONDL	Commondale
+CONBRGH	Conisbrough
+CONOKIL	Kildwick
+CONONLY	Cononley
+COOKHAM	Cookham
+COOMJGF	Coombe No. 1 G.F.
+COPHWJN	Copley Hill West Junction
+COPR105	Coppermill Jn Sig L1005
+CORB24	Corby Signal MJ24
+CORBBSC	Corby B.S.C.
+CORBHSB	Harringworth Signal Box
+CORBOAK	Corby (Oakley Road)
+CORBSV	Seaton Viaduct
+CORBY	Corby
+CORKBIF	Cork B&I Ferryport
+CORKTIV	Cork Tivoli Ferryport
+CORPACH	Corpach
+CORPFLT	Corpach FLT
+CORSHAM	Corsham
+COSELEY	Coseley
+COSFUGL	Cosford Up Goods Loop
+COSHAMJ	Cosham Jn
+COTAMCW	Cottam Mainline C&W
+COTNGLY	Cottingley
+COVN532	Covnentry Signal CB1532
+COVNCOL	Coventry Prologis Park
+COVNNJN	Coventry North Jn
+COVNPKJ	Coventry Park Jn
+COWDBUS	Cowden Crossroads
+COWESE	East Cowes
+COWESWH	West Cowes Hoverport
+COWLEYH	Cowley Hill
+CPPITSD	Church Path Pit Sdgs
+CRADLYH	Cradley Heath
+CRAIGCO	Craigo Crossover
+CRAIGOC	Craigo C.E.
+CRAVE16	Craven Arms Signal CA16
+CRAVENA	Craven Arms
+CRAWLEY	Crawley
+CRAWRMC	Crawley New Yard R.M.C.
+CRCRFTJ	Carcroft Jn
+CRDFBUS	Cardiff Central Bus Station
+CRDFGBF	Cardiff Castle Works (GBRF)
+CRDFW	Cardiff West
+CREW142	Crewe Sig. CE142
+CREW543	Crewe Sig. CE543
+CREWBHJ	Crewe Basford Hall Jn
+CREWBHN	Crewe Bas Hall S.S.N.
+CREWBSS	Basford Hall S.S.
+CREWDED	Crewe TMD (D)
+CREWE	Crewe
+CREWECY	Crewe Coal Yard
+CREWEGL	Crewe Gresty Lane
+CREWENJ	Crewe North Jn
+CREWESW	Crewe Steel Works
+CREWETS	Crewe Thomas Street C.C.E.
+CREWGGN	Crewe Gresty Green
+CREWGUL	Crewe Gresty Green Up Loop
+CREWH34	Crewe Sig. BH34
+CREWH44	Crewe Sig. NH43/44 (SSN)
+CREWMRA	Crewe Heritage Centre
+CREWOCG	Crewe Western Gate (O,C&G)
+CREWPWS	Crewe P Way Shops Yard
+CREWSBS	Crewe Steventon Bulk Store
+CREWSSN	Crewe SSN Signal Box
+CREWUDL	Crewe Up & Down Loop
+CREWWKX	Crewe Works
+CREWWSC	Crewe Gresty Bridge (DRS)
+CRFDCKJ	Crayford Creek Jn
+CRFDSPB	Crayford Spur B
+CRFTESP	Crofton East Spur
+CRFTNWJ	Crofton West Jn
+CRGDRN	Craigendoran
+CRGHLSB	Crag Hall S.B.
+CRGICCE	Craiginches C.E.
+CRGIDRS	Aberdeen Craiginches (DRS)
+CRGISTH	Craiginches South
+CRGNFHH	Craigentinny GNER FHH
+CRGNTYJ	Craigentinny Jn
+CRHL	Crews Hill
+CRIKGF	Crick G.F.
+CRKL2GL	Cricklewood No2 G L
+CRKLFHH	Cricklewood F/L Heavy Haul
+CRKLLAF	Cricklewood Lafarge
+CRKLRTS	Cricklewood R.T.S.
+CRKLUGL	Cricklewood U.G.L.
+CRKLWDJ	Cricklewood Depot Jn
+CRKLWRS	Cricklewood Recess Sdg
+CRLK	Carluke
+CRLNJN	Charlton Junction
+CRLTOTL	Carlton On Trent Loop
+CRMLNGT	Cramlington
+CRMNDNJ	Carmondean Jn
+CRMRSWJ	Carmuirs West Jn
+CRNFDSG	Carnforth Down Sidings
+CRNFNJN	Carnforth North Jn
+CRNFRTC	Carnforth T.C.
+CRNFUGL	Carnforth D&U.G.L.
+CRNG	Charing
+CRNLAME	Crianlarich Down Sdg AMEC
+CRNLRCH	Crianlarich
+CRNLUDS	Crianlarich Down Sidings
+CROFFHH	Croft Quarry FLHH
+CROFTQY	Croft Quarry
+CROGSMA	Smardale Viaduct
+CROKSTN	Crookston
+CROSSHL	Crosshill
+CROUCHH	Crouch Hill
+CROXTON	Croxton AHB
+CRPHLY	Caerphilly
+CRSHLTN	Carshalton
+CRSKYJN	Crosskeys Jcn
+CRST405	Carstairs Sig MC405
+CRST422	Carstairs Sig MC422
+CRSTCE	Carstairs C.E.
+CRSTFHH	Carstairs Down Sdgs (FHH)
+CRSTRSE	Carstairs East Jn
+CRSTUPL	Carstairs U.P.L.
+CRTSDYK	Cartsdyke
+CRUMPSL	Crumpsall
+CRWNSTJ	Crow Nest Jn
+CRXLEY	Croxley (LUL)
+CRYS167	Crystal Palace Vc167
+CRYSBRJ	Bromley Jn
+CSCR	Castle Caereinion
+CSFD	Chandlers Ford
+CSTL	Castleton
+CSTLDGL	Castleton D.G.L.
+CSTLHGF	Castleton Hopwood GF
+CSTLTEJ	Castleton East Jn
+CSTLUSE	Castleton Up Sdgs (EWS)
+CTLYBSC	Cantley B.S.C.
+CTNG	Collington
+CTRDJN	Carlton Road Jn
+CUDNGTN	Cuddington
+CULDNMR	Culloden Moor
+CULRAIN	Culrain
+CUPAR	Cupar
+CURRIEH	Curriehill
+CUSTMHS	Custom House
+CWDN941	Cowdenbeath Sig EC941
+CWLRBOX	Cowlairs SignalBox
+CWLRSEJ	Cowlairs East Jn
+CWLRSNJ	Cowlairs North Jn
+CWLRSWJ	Cowlairs West Jn
+CWMBOC	Cwmbargoed Opencast Colly.
+CWMGWRH	Cwmgwrach
+CXTN	Cuxton
+CYNGHRD	Cynghordy
+DAGNMJN	Dagenham Junction
+DAISYH	Daisy Hill
+DALAMFD	Dallam Freight depot
+DALM893	DALMUIR SIGNAL YY893
+DALMRDS	Dalmuir Down Siding
+DALRY	Dalry
+DALS	Dalston Junction Stn ELL
+DALSEGF	Dalston Eastern Grnd Frame
+DALSKLD	Dalston Kingsland
+DALSTOT	Dalston Oil Terminal
+DALTON	Dalton
+DALWHIN	Dalwhinnie
+DALZUGL	Dalzell U.G.L.
+DANZEY	Danzey
+DARNALL	Darnall
+DARTFD	Dartford
+DARTFDS	Dartford Down Sidings
+DARWEN	Darwen
+DAUNTSY	Dauntsey
+DAWLISH	Dawlish
+DAWM531	Daw Mill Signal SY531
+DAWMGBR	Daw Mill Colliery GBRF
+DAWMWJ	Daw Mill West Jn
+DEAL	Deal
+DEAN	Dean
+DEANHLS	Dean Hill Sdgs. M.O.D.
+DEEPSW	Stocksbridge Works
+DELAMER	Delamere
+DENBYOT	Denby Opencast
+DENMRKH	Denmark Hill
+DENSGTJ	Deansgate Jn
+DEPTFD	Deptford
+DERBYRD	Derby Road
+DESBRO	Desborough Summit
+DEVNARB	Devonport Albert Road
+DGLROAD	Dingle Road
+DGNH826	Dagenham Ford MC Sig UR826
+DGNHARC	Dagenham ARC Sdgs
+DGNHMDC	Dagenham Dock
+DGNHREC	Dagenham Dock Reception
+DIDCGWS	Didcot Great Western Soc.
+DIDCPS	Didcot Pwr Stn Fliner Hvy Haul
+DIDCTDC	Didcot Distribution Centre
+DIDCTNJ	Didcot North Jn
+DIDCTTC	Didcot T.C.
+DIDCWE	Didcot West End
+DIGBY	Digby & Sowton
+DIGSWEL	Digswell Jn.
+DILLING	Dillingen (Saarlouis)
+DINASR	Dinas Rhondda
+DING2LC	Dingwall No2 LC
+DINGWCE	Dingwall C.E.
+DINSDAL	Dinsdale
+DIRFBRF	Daventry GBRF
+DIRFEP2	Daventry Recep SDGS EP2
+DIRFTFL	Daventry Int RFT Recep FL
+DIRFTMA	Daventry IRFT (Malcolm WH) (EWS)
+DIRFTWA	Daventry INT RFT Warehouse
+DISS	Diss
+DITTAHF	Ditton Foundry Ln(AHC-FLR)
+DITTBOC	Ditton (O'Connor Sdgs)
+DITTFLF	Ditton (O'Conner) Fastline
+DITTINO	Ditton Widnes Innovis
+DITTON	Ditton East Junction
+DLGO	Dolgoch Falls
+DLMRNOK	Dalmarnock
+DLMYCE	Dalmeny C.E.
+DLMYUPL	Dalmeny U.P.L.
+DLNSPDL	Dalnaspidal
+DLRYMPL	Dalrymple Jn
+DLTN921	Dltn Sig 921
+DLTNCGP	Catterick Camp Centre
+DLTNDBP	Darlington Down Bypass
+DLTNN	Darlington North Jn
+DLTNRIM	Richmond (Market)
+DLTNUGL	Darlington Up Goods Loop
+DLTNUS	Darlington Up S.S.
+DMARSHJ	Dee Marsh Jn.
+DMBR617	Dumbarton Signal YD617
+DMBR933	Dumbarton Signal YD933
+DMBRCCE	Dumbarton Central C.E.
+DMBRTNL	Dumbarton Goods Loop
+DMTHKWR	Kingswear (For Dartmouth)
+DNDL	Denby Dale
+DNFRMQM	Dunfermline Queen Margaret
+DNLP	Dunlop
+DNRAGIT	Dunragit
+DNSDCPA	Deanside C.P.A.
+DNSDLP	Deanside Loop
+DNTG	Dinting
+DNTONJN	Denton Jn
+DOCKYDP	Dockyard
+DOEHAYF	Doe Hill Appleyard Fuels
+DOLAU	Dolau
+DOLGARG	Dolgarrog
+DOLM160	Dollands Moor Signal 2160
+DOLM171	Dollands Moor Signal 2171
+DOLMCR	Dollands Moor Colas Rail
+DOLMDGL	Dollands Moor Dn Gds Line
+DOLMGBF	DOLLANDS MOOR (GBRF)
+DOLMLHS	Dollands Moor L.H.S.
+DOLMWB	Dollands Moor W. Boundary
+DOLMWST	Dollands Moor West
+DONC105	Doncaster Sig D105
+DONC108	Doncaster Sig D108
+DONC254	Doncaster Sig D254
+DONC275	Doncaster Sig D275
+DONC298	Doncaster Sig D298
+DONC489	Doncaster 489 Sig
+DONCBDR	Belmont Down Reception
+DONCBJN	Bridge Jn
+DONCBUY	Belmont Up Yard
+DONCDDF	Doncastr Down Decoy Fliner
+DONCDFL	Doncaster Down Decoy FLF
+DONCDSJ	Doncaster Decoy South Jn
+DONCEP	Doncaster Europort
+DONCHJN	Hexthorpe Jn
+DONCLIP	Doncaster L.I.P.
+DONCMRG	Donc. Marshgate Jn.
+DONCPS	Doncaster Paper Sdgs
+DONCRFF	Doncaster Railport (FF)
+DONCRPA	Doncaster Railpt Spine Rd
+DONCRPG	Doncaster Railport (GBRF)
+DONCSCJ	St. Catherines Jn
+DONCSTS	Doncaster C.H.S.
+DONCUDF	Doncaster Up Decoy F'liner
+DONCVIR	Doncaster Wood Yd Virtual
+DONCWFL	Doncaster Works (FLHH)
+DONCWLS	Doncaster Works Loco Shops
+DONCYRD	Doncaster Yards
+DONNRFT	Donnington RFT
+DORE	Dore and Totley
+DORESNJ	Dore Station Jn
+DORIDGE	Dorridge
+DORKING	Dorking
+DORTMND	Dortmund Hbf
+DOVE621	Dover Signal YE 621
+DOVERCO	Dover Complex Train Ferry
+DOVERP	Dover Priory
+DOVYDPL	Dovey Junction Down Loop
+DOWNHAM	Downham Market
+DRAXCEG	Drax Power Station
+DRAXFHH	Drax AES (FLHH)
+DRAXGYP	Drax Gypsum Loading Point
+DRAYGRN	Drayton Green
+DRBYCHC	Derby Chaddesden Curve
+DRBYCHS	Chaddesden Sdgs
+DRBYEPS	Etches Park Sdgs
+DRBYFRG	Derby RTC (Fragonset)
+DRBYLNW	L.N.W. Jn. Derby
+DRBYRTC	Derby R.T.C. (Network Rail)
+DRBYWW	Derby Way & Works Sidings
+DRCHFHH	Dorchester South FLHH
+DRCHW	Dorchester West
+DREM537	Drem Sig EF537
+DREMDPL	Drem D.P.L.
+DREMUPL	Drem U.P.L.
+DRHM358	Durham Sig Ty358
+DRIGBNF	Drigg British Nuclear Fuel
+DRKLECJ	Drakelow East Curve Jn
+DRKLOAS	Drakelow A Or B Sidings
+DRLSTNJ	Darlaston Jn
+DRM5026	Drumgelloch Signal EN5026
+DRMGLCH	Drumgelloch
+DRNIKML	Drinnick Mill
+DRSNGHM	Dersingham Bank Road
+DRTN	Darton
+DRTWUGL	Droitwich Up Goods Loop
+DRYP	Drayton Park
+DTTHS	Dentiths Sdgs
+DUBLBIF	Dublin B&I Ferryport
+DUBLINF	Dublin Ferryport
+DUDESTN	Duddeston
+DUDLPT	Dudley Port
+DUFIELD	Duffield
+DUIRNSH	Duirinish
+DUISRH	Duisburg Ruhrort-Hafen
+DUMBRCK	Dumbreck
+DUMFOIL	Dumfries Maxwelltown - DCC
+DUMFRSY	Dumfries Yard
+DUMPTNP	Dumpton Park
+DUNANCE	Dunblane C.E.
+DUNANSB	Dunblane Signal Box
+DUNBUCE	Dunbar Up Sdgs CE
+DUNDCJ	Dundee Central Jn
+DUNDETB	Dundee
+DUNDLEL	Lochee Lye
+DUNGENS	Dungeness
+DUNKUS	Dunkeld & Birnam Up Sdg
+DUNNING	Dunning
+DUNROBN	Dunrobin EWS
+DUNT	Dunstable
+DUSSDRF	Dusseldorf Hbf
+DVNTYNJ	Daventry North Jn
+DWBY	Dewsbury
+DWBYTIL	Dewsbury Tilcon
+DYCE	Dyce
+DYFRYNA	Dyffryn Ardudwy
+DYMCHUR	Dymchurch
+EALINGB	Ealing Broadway
+EARL136	Earlswood Signal TI136
+EARLSWD	Earlswood (Surrey)
+EASTBRK	Eastbrook
+EBOLDON	East Boldon
+EBOU501	Eastbourne Signal EB501
+EBOUSID	Eastbourne Sidings
+EBRYBGJ	Ebury Bridge Jn
+EBSFACT	Ebbsfleet CTRL
+EBSFEJN	Ebbsfleet East Junction
+EBWVALE	Ebbw Vale
+EBWVRAS	Rassau
+ECCLES	Eccles
+ECKNGTL	Eckington Loop
+ECLRDJS	Eccles Rd Johnston'S Sdg
+ECLRFHH	Eccles Road FHH
+ECRO065	East Croydon Signal T1065
+ECROUS	East Croydon Up Siding
+EDALERS	Edale Refuge Sidings
+EDERTON	Edderton
+EDGHCMD	Edge Hill Car. M.D.
+EDGHDWG	Edge Hill Down Wapping
+EDIDBRY	East Didsbury
+EDIN815	Edinburgh Signal E815
+EDINBUS	Edinburgh Bus Station
+EDINSTE	Edinburgh S.& T.E.
+EDNT	Edenbridge Town
+EDULWCH	East Dulwich
+EFLDPL	Eastfield Passenger Loop
+EFNG322	Effingham Jn Signal GD1322
+EFNGS98	Effingham Jn Signal Wx98
+EGATEBC	Eastgate Blue Circle
+EGBROPS	Eggborough Power Station
+EGHAM	Egham
+EGLSCLF	Eaglescliffe
+EGNGTNJ	Egginton Jn
+EGRNSID	East Grinstead Sidings
+EGRYN	Egryn
+EHMEMUD	East Ham E.M.U.D.
+EIGG	Eigg
+EKILBDE	East Kilbride ISU CE
+ELBOWNJ	Elbowend Jn
+ELDRDRS	Elderslie US (DRS)
+ELDRSCE	Elderslie C.E.
+ELFORDL	Elford Loop
+ELGH103	Eastleigh Signal E103
+ELGH228	Eastleigh Signal E228
+ELGH26	Eastleigh Signal E26
+ELGH81	Eastleigh Sig. E81
+ELGHABK	Allbrook
+ELGHBRM	Eastleigh Works - Alstom
+ELGHE28	Eastleigh Signal E28
+ELGHFLD	Eastleigh Dpt Freightliner
+ELGHHS	Eastleigh H.S.
+ELGHPAD	Eastleigh P.A.D.
+ELGHSFP	Eastleigh Depot FP
+ELGHVQ	Eastleigh Virtual Quarry
+ELGIN	Elgin
+ELINTON	East Linton
+ELLBNLL	ELL Boundary NLL
+ELMERSE	Elmers End
+ELMTNAC	Elmton & Cresswell Jn
+ELSC	Elsecar
+ELSHAM	Elsham
+ELSMMWF	Ellesmere Port M Wharf FHH
+ELSMPDB	Ellesmere Port (DB Schenker)
+ELSMPOC	Ellesmere, Ass Octel
+ELSMPTC	Ellesmere Port T.C.
+ELSMUDG	Ellesmere Port U&DGL
+ELSTORS	Elstow Redland Sdg
+ELTON	Elton & Orston
+ELVFOOT	Elvanfoot
+ELYY	Ely
+ELYYDLN	Ely Dock Jn
+ELYYFLT	Ely Papworth Sidings FLT
+ELYYNJN	Ely North Jn
+ELYYREC	Ely Recp.
+ELYYWJN	Ely West Jn
+EMPKAIR	East Midlands Airport (Bus)
+EMRSPKH	Emerson Park
+ENFCOAK	Oakwood LUL (Enfield)
+ENFLDLK	Enfield Lock
+ENTWISL	Entwistle
+EPCKHMT	East Peckham Tip
+EPSM	Epsom
+EPSM444	Epsom Sig 444
+EPSMDS	Epsom - Down Sidings
+EPSMUS	Epsom - Up Sidings
+ERIDBUS	Eridge (A26 Bus Stop)
+ERIGCRO	Erigcro
+ERITHLP	Erith Loop
+ERLEFHH	Hope (Earles Sidings) FHH
+ERLFLD	Earlsfield
+ERLSTWJ	Earlestown West Jn
+ERLY	Earley
+ERROLLC	Errol
+ESHS	Easterhouse
+ESKDALE	Eskdale (Dalegarth)
+ESSEXRD	Essex Road
+ESTFLDS	Mitcham Eastfields
+ESTSOMJ	East Somerset Jn
+ETILBRY	East Tilbury
+ETRURIA	Etruria
+EUROHS	Eurotunnel Depot Headshunt
+EUSKBDP	East Usk Branch Birdport
+EUSKJNY	East Usk Jn.N.Y.
+EUST104	EUSTON SIG WM104
+EUST286	EUSTON SIG WM286
+EUST473	EUSTON SIG WM473
+EUST501	EUSTON SIG WM501
+EUSTBAL	Euston Ballast
+EUSTDCN	Euston Down Carr Shed Nck
+EUSTRES	Euston R.E.S.
+EUXT	Euxton
+EVANTON	Evanton
+EVESHAM	Evesham
+EWELLE	Ewell East
+EWRTHNG	East Worthing
+EXET677	Exeter St Davids Ground Sig E677
+EXET681	Exeter sig.681
+EXETARS	Alphington Road Sidings
+EXETCE	Exeter Central ISU (CE)
+EXETERC	Exeter Central
+EXETMBS	Exeter Marsh Barton Sdgs
+EXETRNY	Exeter New Yard
+EXETRSD	Exeter St. David's
+EXHIBDS	Exhibition Centre Dwn Sdg
+EXMOCE	Exmouth Jn ISU (CE)
+EXMOUTH	Exmouth
+EYNMSHC	Eynsham Church
+FACTRYJ	Factory Jn
+FAIRLSN	Fairlie British Energy
+FALKRKG	Falkirk Grahamston
+FALMTHD	Falmouth Docks
+FAMBDGE	North Fambridge
+FARE283	Fareham Sig.E283
+FAREARC	Fareham A.R.C. Sidings
+FARENJN	Fareham North Jn
+FARNHAM	Farnham
+FAULDHS	Fauldhouse
+FAV5060	Faversham Signal EK5060
+FAVR21	Faversham Shunt Signal 21
+FAVRBRD	Faversham Bk Road
+FAVRDNR	Faversham Down Reception
+FAVRUPS	Faversham Up Sidings
+FAWKNRC	Fawkham Jn NR/CTRL Bndry
+FAZKRLY	Fazakerley
+FDLRFHH	Fiddlers Ferry P Stn FLHH
+FDLRSSB	Fiddlers Ferry S.B.
+FDRS250	Forders Siding Sig MV250
+FDRSGBR	Forders Sidings GBRf
+FDRSSDG	Forders Sdgs
+FEARNSD	Fearn Sidings ISU (CE)
+FELNFRN	Felin Fran
+FELTHAM	Feltham
+FENCHRS	London Fenchurch Street
+FENNCRO	Cropredy
+FENNYCM	Fenny Compton
+FERDALE	Ferndale
+FERRIBY	Ferriby
+FERYBPS	Ferrybridge Power Station
+FERYGBF	Ferrybridge Pwr Stn GBRf
+FERYRD	Ferrybridge NP Repair Dpt
+FFLD	Freshfield Halt
+FGDHGWK	Fishguard & Goodwick
+FIFOTFL	Uskmouth Pwr Stn FLHH
+FILEY	Filey
+FILTNEW	Filton Abbey Wood
+FINNGLY	Finningley
+FISKRTN	Fiskerton
+FLAXB	Flax Bourton
+FLETTON	Fletton Jn.
+FLITWCJ	Flitwick Jn
+FLIXTON	Flixton
+FLKLNDS	Falkland S.S.
+FLKS62	Folkestone East Shunt SG 62
+FLKSTNC	Folkestone Central
+FLKSTNH	Folkestone Harbour
+FLORSTN	Floriston
+FLWRYFD	Flowery Field
+FLXSCRS	Felixstowe Creek R.S
+FLXSNEW	Felixstowe North EWS
+FLXSSEW	Felixstowe South EWS
+FLXSSGB	Felixstowe South GBRF
+FLYLAIC	Folly Lane I.C.I. Sdgs
+FNCHLYR	Finchley Road & Frognal
+FNPK	Finsbury Park
+FNPK380	Finsbury Park Sig K380
+FNSTNEJ	Finnieston East Jn
+FNTLSR	Farringdon (SR)
+FOLEYPK	Foley Park
+FORD	Ford
+FORMBY	Formby
+FORRES	Forres
+FORSNLC	Forsinard LC
+FOUROKS	Four Oaks
+FOXHALJ	Foxhall Jn
+FOXTFHH	Foxton FHH
+FRANT	Frant
+FRAT460	FRATTON Signal No. HT460
+FRAT555	Fratton Signal 555
+FRATDFP	Fratton Depot F.P.
+FRATTMD	Fratton T&R.S.M.D
+FRATTNY	Fratton S.S.
+FRATTSH	Fratton Staff Halt
+FRBN	Fairbourne
+FRBRMN	Farnborough (Main)
+FRBRYW4	Farnborough Signal YW4
+FRDSHM	Frodsham
+FRDSUGL	Frodsham Jn UGL
+FRESVIL	Freshford Village
+FRIARSJ	Friars Jn
+FRINTON	Frinton-on-Sea
+FRMKBUS	Four Marks (Windmill)
+FRMPKRS	Ferme Park Recp.
+FRNBRCE	Farnborough Country End
+FRNDNLT	Farringdon
+FRNGTNJ	Farington Jn
+FRNNGRD	Farningham Road
+FROME	Frome
+FRSHFLD	Freshfield
+FRSTGTJ	Forest Gate Jn
+FRTMTLD	Fort Matilda
+FRTWBAC	Fort William British Alcan
+FRTWGF	Fort William BAGF
+FRTWJN	Fort William Jn
+FRTWLM	Fort William
+FRTWTLP	Fort William Timber load
+FRWDJN	Fairwood Jn
+FRZNGHL	Frizinghall
+FSHRSGT	Fishersgate
+FTHRSTN	Featherstone
+FULW411	Fulwell Signal F411
+FULW417	Fulwell Signal F417
+FURNESV	Furness Vale
+FWLY	Fawley
+FWLYGF	Fawley Ground Frame
+FYHLMAR	Ferryhill Yard Marcroft
+FYHLSTI	Stillington
+FYHLTHO	Ferryhill Thompson
+GAILES	Gailes L.C.
+GALASLS	Galashiels
+GALTONJ	Galton Jn
+GANNOWJ	Gannow Jn
+GARSCE	Garsdale URS (CE)
+GARTH	Garth
+GARVELC	Garve LC
+GASFCTJ	Gas Factory Jn
+GATLEY	Gatley
+GBNK	Greenbank
+GBROLRB	Gainsborough L. Rd. B.P.
+GDLMING	Godalming
+GERABJN	Gerards Bridge Jcn
+GERRDSX	Gerrards Cross
+GFORDEJ	Greenford East Jn
+GFORDWJ	Greenford West Junction
+GIDBAVS	Guide Bridge Ave SDGS FLHH
+GIDBFHH	Guide Bridge Yard FHH
+GIDBGNJ	Guide Bridge North Jn
+GIDBGWJ	Guide Bridge West Jn
+GIDE116	Gidea Park Shunt Signal L5116
+GIDE474	Gidea Park Signal L474
+GIDEPKJ	Gidea Park Jn
+GIDEPKR	Gidea Park Railstore
+GIFFEN	Giffen
+GIPSYH	Gipsy Hill
+GISBTNL	Gisburn Tunnel
+GLANRFN	Glanrafon
+GLAZBRK	Glazebrook
+GLBRDYK	Gilberdyke
+GLDLMOD	Glen Douglas M.O.D.
+GLFALCH	Glen Falloch
+GLGAPT	Glasgow Airport
+GLGCBSJ	Glasgow Bridge Street Jn
+GLGCN2L	Glasgow Central No. 2 SDG
+GLGCSD2	Glasgow Central No 2 SDG
+GLGCSD5	Glasgow Central No 5 SDG
+GLGH141	High Street Sig 141
+GLGHST	High Street
+GLGN183	Glengarnock PG183
+GLGQHL	Glasgow Queen St High Level
+GLGSLYE	Smithy Lye
+GLHM23	Gillingham (Dorset) Sig 23
+GLHM677	Gillingham Signal 4677
+GLNCNWY	Glan Conwy
+GLNFCE	Glenfinnan C.E.
+GLNGBTH	Beith
+GLNGDEP	Gillingham E.M.U.D.
+GLNGLCS	Gillingham EWS Sidings
+GLNGRCE	Glengarnock C.E.
+GLNR558	Glenrothes Sig ET558
+GLNRTHS	Glenrothes with Thornton
+GLOS156	Gloucester Sig. G156
+GLOS256	Gloucester Sig. G256
+GLOS423	Gloucester Signal 423
+GLOSCSD	Gloucester Calibration Sdg
+GLOSS31	Gloucester Signal G31
+GLOSTHR	Gloucester Horton Road
+GLOSTUF	Tuffley Junction
+GLSCOED	Glascoed
+GNBAEWS	Goonbarrow Junction EW&S
+GNBARWJ	Goonbarrow Jn Imerys
+GNFTSB	Greenfoot
+GNHL360	Greenhill Jn Signal GJ360
+GNHLLJN	Greenhill Lower Jn
+GNHLUGL	Greenhill Upper U.G.L.
+GNHTBWP	Greenhithe Bluewtr Pk-Bus
+GNLN	Green Lane
+GNRSBRY	Gunnersbury
+GNWH	Greenwich
+GOBOW6	Gobowen Ground Signal GN6
+GODALBN	Gulf Oil Depot Albion
+GODMAYS	Goodmayes
+GODSTGF	Godstone Tip Ground Frame
+GOLBRNJ	Golborne Jn
+GOLSKLC	Kirkton LC
+GONESSE	Gonesse
+GOODSND	Goodrington Sands
+GOOLEGW	Goole Glassworks
+GOOLESJ	Engine Shed Jn Goole
+GOOLUSS	Goole Up Station Sdg
+GORASTR	Goring & Streatley
+GORDONH	Gordon Hill
+GORGIEJ	Gorgie Jn
+GOSBLOT	Blotoft Signal Box
+GOSP100	GOSPEL OAK SIG NL1000
+GOSP500	Gospel Oak Signal GO500
+GOSPMAN	Gospel Oak Mansfield Road
+GOURSTN	Gourock Station
+GOWERTN	Gowerton
+GRAINBP	Grain Bp
+GRAINFF	Grain Thamesport (FF)
+GRAINFY	Grain Foster Yeoman
+GRAINTB	Grain Thamesport Bulk
+GRATELY	Grateley
+GRAYS	Grays
+GREENRD	Green Road
+GRENCCE	Greenock C.E.
+GRENCKU	Greenock United Molasses
+GRENCPA	Greenock C.P.A.
+GRETGRN	Gretna Green
+GRGMACE	Georgemas Junction C.E.
+GRGMHLC	Halkirk
+GRGRAVE	Gargrave
+GRLCHCE	Garelochhead C.E.
+GRMS100	Grimsby Pasture St Sig 1000
+GRMSBPR	Grimsby Pyewipe Road S.B.
+GRMSBWM	Grimsby West Marsh T.C.
+GRMSTPS	Tioxide Siding
+GRNBFHH	Greenburn (FHH)
+GRNDG11	Grindleford SIG G11
+GRNFLDS	Greenfaulds
+GRNGBPH	Grangemouth (Holding Sdg)
+GRNGDRS	Grangemouth FPA (DRS)
+GRNGFPA	Grangemouth Docks F.P.A.
+GRNGH12	Grangemouth Junc Sig GH12
+GRNGMBP	Grangemouth In (Chemicals)
+GRNGMRR	Grangemouth Run Round
+GRNGMTJ	Grangemouth Jn
+GRNGTDG	Grangemouth TDG
+GRNHJN	Greenhurst Jn
+GRNLUDR	Greenloaning Refuge Sdgs
+GROMBDG	Groombridge
+GROSMNT	Grosmont
+GRRDGAM	Gamston
+GRSTH	Garston (Hertfordshire)
+GRSTNFT	Garston F.L.T.
+GRSTNSL	Garston Auto Compound (FLR)
+GRTCSH	Gartcosh
+GRTCSHR	Gartcosh Russell Jg(Trnst)
+GRTLNDJ	Greetland Jn
+GRTN736	Grangetown Sig G.736
+GRTNSHJ	Shell Junction
+GRTSTNH	Greatstone Halt
+GRVPDCE	Grove Park Dpt Ctry Ed EXT
+GRVPK	Grove Park
+GRVPKWR	Grove Park Wash Road
+GRVPUCE	Grove Park Up Sg Cn Ed EXT
+GRVRBGJ	Grosvenor Bridge Jn
+GRVS604	Gravesend Signal NK 1604
+GSCD	Garscadden
+GSCGDBS	Gascoigne Wood Down (DBS)
+GSCGHAG	Hagg Lane Crossing
+GSHRSJN	Gartsherrie South Jn
+GTBG	Great Bridge
+GTCHSFD	Great Chesterford
+GTCOATS	Great Coates
+GTHM	Grantham
+GTHMISU	Grantham ISU
+GTHMNJN	Grantham Nth Jn
+GTHSDPL	Grantshouse D.P.L.
+GTLY	Gartly
+GTMSNDN	Great Missenden
+GTSHDMC	MetroCentre
+GTSRUPL	Gartshore U.P.L.
+GTWK116	Gatwick Airport Sig. T1161
+GTWKUSN	Gatwick Up Siding North
+GUIL305	Guildford Signal GD1305
+GUILDCS	Guildford U.C.H.S.
+GUILDFR	GUILDFORD NORTH BOX SIDINGS
+GUILDUR	Guildford Up Recp
+GUNHOSJ	Gunhouse Loop
+GUNTON	Gunton
+GVESSD	Greaves Sdgs
+GWCG	Gwaun-cae-Gurwen Opencast
+GWRSYLT	Gwersyllt
+GWSYBKR	Gascoigne Wood Sidings
+GYPSYLA	Gypsy Lane
+HACKNYC	Hackney Central
+HADFILD	Hadfield
+HADMASH	Ashendon Jn
+HADMBRI	Brill
+HAGGERS	Haggerston
+HAGHLYJ	Haughley Jn
+HAGTMRD	Harrogate Sdgs
+HAKNYNM	Hackney Downs
+HALGRPC	Halling R.P.C.
+HALL318	Hall Royd Jn SIG 318
+HALLRWS	Hall Road Wall Siding
+HALREST	Eastwood
+HALSWTH	Halesworth
+HALW	Halewood
+HAMBLEJ	Hambleton East Junction
+HAMBLSJ	Hambleton South Jn.
+HAMDLUL	HAMMERSMITH (DISTRICT) LUL
+HAMLDRS	Hamilton (DRS)
+HAMLTNW	Hamilton West
+HAMSTED	Hamstead
+HAMWICK	Hampton Wick
+HANSCAS	Castlethorpe
+HANWBLP	Hanwell Bridge Loop
+HAPTON	Hapton
+HAREWIN	Wintersett
+HARLSJN	Harlesden Jn
+HAROHSJ	Harrow On The Hill Sth Jn
+HARSLP	Haresfield Loop
+HARTFD	Hartford
+HARWCHR	Harwich Recp
+HASL23	Haslemere Signal EW23
+HASOCKS	Hassocks
+HASTGSD	Hastings Goods Sidings
+HASTPSD	Hastings Park Sidings
+HATFILD	Hatfield
+HATRSLY	Hattersley
+HATTDGL	Hatton Down Goods Loop
+HATTNWJ	Hatton West Jn
+HAUGHDJ	Haughhead Jn
+HAVA501	Havant Signal HT501
+HAVAS28	Havant Signal 28
+HAVENHS	Havenhouse
+HAWARDN	Hawarden
+HAWICK	Hawick
+HAWKSLA	Hawkesbury Lane
+HAYDKBJ	Haydock Branch Jn
+HAYESTC	Hayes T.C.
+HAYLE	Hayle
+HAYMDRS	Haymarket Down Refuge Sdg
+HAYMRCS	Haymarket C.S.
+HAYMRWJ	Haymarket West Jn
+HAYS	Hayes (Kent)
+HAZL	Hazel Grove
+HBDNBDG	Hebden Bridge
+HBROOMS	High Brooms
+HBRY	Hartlebury
+HCKPBAL	Balne
+HCKPLSM	Heck Plasmor P S
+HDNELP	Hall Dene Loop
+HDNSMOO	Moors Gorse LC
+HDRS771	Huddersfield Sig HU771
+HDRSSDG	Huddersfield Siding
+HEADUGL	Headcorn Up Goods Loop
+HEATHHL	Heath High Level
+HEATSDG	Heath Town Sidings
+HEDNGLY	Headingley
+HELEBLC	Hele & Bradninch LC
+HELILOP	Hellifield Goods Loop
+HELPSTN	Helpston Jn.
+HELTNL	Helm Tunnel
+HEMLBMS	Hemel Hempstead Boxmoor SDG
+HEMLSJN	Hemel Hempstead South Jn
+HENGOED	Hengoed
+HENSALL	Hensall
+HEREDNY	Hereford N.Y.
+HEREFDY	Hereford Yard
+HERN602	Herne Hill Signal VS602
+HERNHSD	Herne Hill Siding
+HERTFDD	Hertford Depot
+HESRJN	Helen Street Jn
+HESSLE	Hessle
+HESSLRD	Hessle Road Jn.
+HESWALL	Heswall
+HETNLEJ	Heaton Lodge East Jn
+HEVER	Hever
+HEWOMTR	Heworth (Metro)
+HEXHAM	Hexham
+HEXHFD	Hexham Freight Depot
+HEYMCEG	Heysham Harbour P.S.
+HFDN	Hertford North
+HFLPEVL	Hatfield Peverel
+HGHBRDJ	Highbridge Loop
+HGHIBVJ	Highbury Vale Jn
+HGHMSPK	Highams Park
+HGTNSD	Haughton Sidings
+HIGH321	Highbury Signal ELL 321
+HIGHTRT	Highbury Transfer TR AC - DC
+HIHAM	Higham (Suffolk)
+HILL102	Hillside Signal 102
+HILSEA	Hilsea
+HINCKLY	Hinckley
+HINKN	Hinksey North
+HINKSYS	Hinksey South
+HIRWAUN	Hirwaun Pond
+HITC232	Hitchin Sig K.232
+HITC708	Hitchin Signal K708
+HITCFHH	Hitchin Engineers Sidings
+HITCHCJ	Cambridge Jn
+HITCHUY	Hitchin Up Yard
+HITN	Hightown
+HKLTNSB	Hickleton S.B.
+HLBDGJN	High Level Bridge Jn
+HLBNSDG	Holybourne Oil Sdgs (GBRf)
+HLDG	Heald Green
+HLDNBRO	Hildenborough
+HLFX	Halifax
+HLLE	Halle
+HLMW	Holmwood
+HLNGTNW	Hillington West
+HLNMJN	Hallen Marsh Jn
+HLNSBPR	Helensburgh Pier
+HLNSBRU	Helensburgh Upper
+HLSTCUL	Culdrose R.N.A.S.
+HLSTWOO	Helston Woolworths
+HLTWHST	Haltwhistle
+HLVNGTN	Hullavington
+HLWYSJ	Holloway Sth. Jn.
+HLYH107	Holyhead Sig. HD107
+HLYHDLS	Holyhead L.I.P.
+HLYMAJN	Healey Mills A Jn
+HLYMLS	Healey Mills N.Y.
+HLYW	Holywood
+HMBLE	Hamble
+HMPDNPK	Hampden Park
+HMPTNIA	Hampton-in-Arden
+HMSHCOL	Hams Hall NDP COLAS
+HMSHEWC	Hams Hall Cripple Sdgs (EWS)
+HMSHNDP	Hams Hall Nat Dist Park
+HMST	Ham Street
+HMWTBCI	Hamworthy B.C.I.
+HMWTTC	Hamworthy T.C.
+HNCHLYW	Hinchley Wood
+HNDL	Hindlow
+HNDLGBR	Dowlow GBRf
+HNDS604	Handsworth Shunt Sig 604
+HNDSCS	Handsworth Cement Sdgs
+HNDSQHD	Handsworth Queens Head Sdgs
+HNGT	Harrington
+HNSL487	Hunslet Stn Jn Sig 4487
+HNSLMID	Middleton Light Railway
+HNSLTE	Hunslet East T.C.
+HNSLTPL	Hunslet T.P.L. GBRF
+HNTL	Huntly
+HNTNGDN	Huntingdon
+HNTRDRS	Hunterston LL DRS
+HNTRGBF	Hunterston H.L GBRF
+HNTRSHL	Hunterston High Level EWS
+HNTRSLL	Hunterston LL EWS
+HOCK636	Liverpool Street Sig L636
+HOEKVHL	Hoek Van Holand
+HOLBSDG	Holbeck Loco Sidings
+HOLME	Holme Jn.
+HOLSLIB	Holsworthy Library
+HOLYTNJ	Holytown Jn
+HONDEGM	Hondeghem
+HONI21	Honiton Signal H21
+HONICE	Honiton ISU (CE)
+HONITNS	Honiton Station
+HONROPK	Honor Oak Park
+HONYBTP	Honeybourne Tip
+HONYNJN	HONEYBOURNE NORTH JN
+HOOFDOR	Hoofddorp
+HOOJ502	Hoo Junction Signal NK502
+HOOJ512	Hoo Junction Signal NK512
+HOOJD14	Hoo Junction Signal NK511
+HOOJDYD	Hoo Junction Down Yard
+HOOJUYD	Hoo Junction Up Yard
+HOOTON	Hooton
+HOPD	Hope (Derbyshire)
+HOPSPPS	Hope St Peakstone P.Sdgs
+HORBMAF	Horbury Storrs Hill
+HORBOM	Horbury Bombardier
+HORBUGL	Horbury Up Goods Loop
+HORNBUS	Horndean (Precinct)
+HORSDL	Horsham Down Loop
+HORSHAM	Horsham
+HORSUKF	Horsham U.K.F.
+HORSUS	Horsham Up Sidings South
+HOTH343	Hothfield Signal ME343
+HOUGHGR	Hough Green
+HOUNSLJ	Hounslow Jn
+HOVE	Hove
+HOVE673	Hove Sig. T673
+HOVE675	Hove Sig. T675
+HOWEACS	Howe & Co Sdgs
+HOWWOOD	How Wood
+HOYLCHS	Hoylake C.H.S.
+HRDNDLQ	Hardendale Quarry
+HRGY419	Harringay Sig K419
+HRGY81	Harringay Sig K81
+HRGYPJN	Harringay Park Jn
+HRGYWJN	Harringay West Jn
+HRLG	Harlington
+HRLSCTX	Harlescott X
+HRLWMDG	Harlow Mill D.G.L.
+HRLWMLY	Harlow Mill Recp.
+HRNBPK	Hornbeam Park
+HRNEBAY	Herne Bay
+HRNS426	Hornsey Sig K426
+HRNS432	Hornsey Sig K432
+HRNS440	Hornsey Sig K440
+HRNS453	Wood Green Sig. K453
+HRNSDRS	Hornsey Dn Reversing Sdgs
+HRNSURS	Hornsey Up Reversing Sdgs
+HRNSYCS	Hornsey C.H.S.
+HRNSYMD	Hornsey E.M.U.D.
+HROW305	Harrow DC Signal 305
+HROWDC	Harrow & Wealdstone DC
+HRPNDNJ	Harpenden Jn
+HRSB	Hurstbourne Viaduct
+HRST312	Hurst Green Signal 312
+HRSTJN	Hurst Green Jn
+HRTHENG	Hartshill
+HRTLEPL	Hartlepool
+HRTLPSW	Hartlepool Sth Works
+HRTLSWP	Hartlepool Sth Wks RAMCO
+HRTW	Hartwood
+HRWTFHH	Harworth Colliery (FLHH)
+HRWTHGB	Harworth Glass Bulbs
+HSFTLBD	Leeds & Bradford Airport
+HTCP	Heaton Chapel
+HTFDSD	Hothfield Siding
+HTFLFLF	Hatfield Colliery FL FRT
+HTHFECC	Heathfield E.C.C.
+HTHRGRN	Hither Green
+HTHRGUS	Hither Green Up Recp.
+HTHRSDG	Hither Green Sidings
+HTNOJN	Heaton Norris Jn
+HTONNJN	Heaton North Jn
+HTONTMD	Heaton T&R.S.M.D.
+HTRBUS1	Heathrow Terminal 1 (Bus)
+HTRBUS3	Heathrow Terminal 3 (Bus)
+HTRW	Heathrow Airport
+HTRW342	Heathrow Headshunt
+HTRWCBS	Heatrhrow Central Bus Station
+HTRWTE4	Heathrow Terminal 4 Bus
+HTRWTM2	Heathrow Terminal 2 Bus
+HTRWTM4	Heathrow Terminal 4
+HUCKNAL	Hucknall
+HULLARJ	Anlaby Road Jn
+HULLBT	Hull Bulk Terminal
+HULLCT	Hull Coal Terminal
+HULLDMU	Botanic Gardens D.M.U.D.
+HULLFHH	Hull Yard (FLHH)
+HULLKGD	Hull King George V Dock
+HULLKGG	Hull King George V Dock GBRF
+HULLSBP	Hull Saltend B.P.
+HULLSNS	Hull Saltend New Sidings
+HULLSTT	Hull Docks Steel Terml EWS
+HULLWPN	West Parade North Jn
+HUNGDGL	Hungerford Loop
+HUNMNBY	Hunmanby
+HUNTXWJ	Hunts Cross West Jn
+HURSLEY	Hursley (Post Office)
+HVRTBSB	Belasis Lane S.B.
+HVRTDRS	Haverton Hill Ex.S. (DRS)
+HVTH	Haverthwaite
+HWKHSHL	Paisley Hawkhead Shell
+HWRDJN	Heywood Road Jn
+HWYC152	High Wycombe Signal ME152
+HWYCOMB	High Wycombe
+HYD1225	Haywards Heath Signal 1225
+HYDBFST	Fourstones
+HYDEJ	Hyde Jn
+HYKEHAM	Hykeham
+HYNDLEJ	Hyndland East Jn
+HYNDLWJ	Hyndland West Jn
+HYTW	Hythe Waterside
+HYWRDSN	Haywards Heath Dn Sdg Nth
+HYWRUS	Haywards Heath Up Siding
+IFIELD	Ifield
+ILFE341	Ilford Sig L341
+ILFEL5D	Ilford Level 5 Depot
+ILFEMUD	Ilford EMUD
+ILFORD	Ilford
+ILKLEY	Ilkley
+IMNG7FH	Immingham Rec Line 7 (FLHH)
+IMNGABF	Immingham A2 and B4 (FLHH)
+IMNGBR7	Immingham LL7 GBRf
+IMNGCLA	Immingham PAD2
+IMNGDCR	Immingham Dock Colas Rail
+IMNGENG	Immingham Engine Line
+IMNGEXX	Immingham Dk Exxtor F'linr
+IMNGHAF	Immingham ESL (FLHH)
+IMNGHFL	Humber Oil Refinery (FHH)
+IMNGHGB	Immingham Hargreaves GBRF
+IMNGHMQ	Immingham Mineral Quay
+IMNGHOT	Immingham B.S.C. Ore Tml
+IMNGHRS	Immingham Reception Sdgs
+IMNGITF	Immingham Import Term FHH
+IMNGLGB	Lindsey Oil Refinery GBRf
+IMNGLOR	Lindsey Oil Refinery
+IMNGNIG	Immingham NCB 1 GBRF
+IMNGNOR	Immingham Nordic
+IMNGRSG	Immingham Recp Sdgs GBRF
+IMNGSAP	Immingham Storage Acid Plt
+IMNGSTO	Immingham Min Quay Stora
+IMNGTEX	Immingham Texaco
+IMNGUSR	Immingham Yd Specific User
+INCE	Ince
+INCHNNS	Inchcoonans L.C.
+INEL	Ince & Elton
+INGT679	Ingatestone Signal L679
+INGTSTN	Ingatestone
+INHTURE	Inchture L.C.
+INSCH	Insch
+INVGWRE	Invergowrie
+INVKLOR	Inverkeilor
+INVURIE	Inverurie
+IPSW295	Ipswich Sig CO295
+IPSW328	Ipswich Signal CO.328
+IPSW822	Ipswich Signal CO822
+IPSWCCS	Ipswich C.S.D.
+IPSWCLQ	Ipswich Cliffe Quay
+IPSWESJ	East Suffolk Jn
+IPSWFLD	Ipswich Field Sidings
+IPSWHLW	Halesworth BUS
+IPSWLRD	Ipswich London Rd
+IPSWSN1	Ipswich Shunt  Neck 1
+IPSWSWD	Southwold BUS
+IPSWYGB	Ipswich Reception GBRF
+IRNBDGE	Ironbridge Power Station
+IRNBGBR	Ironbridge Power Station GBRf
+IRNVLJN	Ironville Junction
+IRVN	Irvine
+IRVNB	Irvine Bogside
+IRVNCPP	Irvine Caledonian Paper
+ISLIP	Islip
+IVRGRD	Invergordon
+IVRKCJN	Inverkeithing Central Jn
+IVRKSJN	Inverkeithing South Jn
+IVRKTGL	Inverkeithing G.L.
+IVRKUPL	Inverkeithing U.P.L.
+IVRN387	Inverness Signal I387
+IVRNBC	Inverness Blue Circle Sdgs
+IVRNCE	Inverness C.E.
+IVRNFD	Inverness F.D.
+IVRNFSD	Inverness Freight SDGS DRS
+IVRNRSL	Inverness Russell J.G.
+IVRNTMD	Inverness T.M.D.
+JAME537	James Street Signal 537
+JAMESST	James Street
+JARRFHH	Tyne Dock (FLHH)
+JARRGIN	Tyne Dock GBF (Intermodel)
+JARRPTA	Tyne Dock PTA
+JERS470	Jersey Marine Sth Jn PT470
+JERSMJS	Jersey Marine Jn South
+JERSYMY	Jersey Marine Yard
+JHNSTND	Johnston
+JNCROFT	Joan Croft Jn
+JORDANH	Jordanhill
+KAIMES	Kaimes Quarry Siding
+KAYPRKJ	Kay Park Jn
+KCLD838	Kirkcaldy Sig EK838
+KCLDYDD	Kirkcaldy Sidings
+KDRMCHS	Kidderminster C.H.S.
+KDRMSVR	Kidderminster S.V.R.
+KEARSLY	Kearsley
+KEBGSJN	King Edward Bridge S. Jn
+KEIGHSJ	Keighley Station Jn
+KEITHBP	Keith Branch Platform
+KEITHSP	Keith Strathisla Platform
+KELNFLF	Kellingley Coll Fastline
+KELNGLY	Kellingley Colliery
+KEMSING	Kemsing
+KENETRS	Kennett Redland Siding
+KENLWTH	Kenilworth
+KENNFHH	Kennett FHH
+KENR	Kensal Rise
+KENSLGJ	Kensal Green Jn
+KENTHOS	Kent House
+KESWICK	Keswick (Bus Station)
+KETRGED	Geddington
+KETRGNJ	Kettering North Junction
+KETTK3	Ketton Sig K3
+KETTWSD	Ketton Ward Sdg.
+KEWGRDN	Kew Gardens
+KEYHAM	Keyham
+KGHN	Kinghorn
+KGMR482	Carlisle Kingmoor Sig 482
+KGMRJCN	Carlisle Kingmoor Jcn
+KGMRSRR	Carlisle Stainton RunRound
+KGMRVQ	Carlisle Kingmoor V.Q. (RT)
+KGPK	Kings Park
+KGST412	Kingston Signal F412
+KGUSCE	Kingussie C.E.
+KIBWRTH	Kibworth Summit
+KIDS587	Kidsgrove Signal 587
+KIDWJCN	Kidwelly Junction
+KILARNY	Killarney
+KILCFHH	Killoch Colliery FHH
+KILDONN	Kildonan
+KILMBCY	Kilmarnock (Barclay Sdgs)
+KILMCE	Kilmarnock Bonnyton Depot
+KILMWKR	Kilmarnock Walker J
+KILW794	Kilwinning Signal PK794
+KILWNNG	Kilwinning
+KINBRAC	Kinbrace
+KINETON	Kineton
+KINSSTN	Kings Sutton
+KIRKCCE	Kirkham C.C.E.
+KIRKM51	Kirkham & Wesham Sig KM51
+KITTYBR	Kittybrewster
+KKBY	Kirkby
+KKSNJN	Kirk Sandall Jn
+KLBRUDG	Kilburn Up and Down Gds Lp
+KLDL	Kildale
+KLGLLP	Kings Langley Loop
+KLPTRCK	Kilpatrick
+KLYNN29	Kings Lynn Signal 29
+KLYNNDF	Kings Lynn Dalgetty & Fkln
+KLYNNJN	Kings Lynn Jn
+KMPTNPK	Kempton Park
+KMSLY	Kemsley
+KNCRAIG	Kincraig
+KNEBWTH	Knebworth
+KNGSBCG	Birch Coppice GBRf
+KNGSBFT	Birch Coppice Flt
+KNGSBYJ	Kingsbury Jn
+KNGSFHH	Kingsbury Freightliner HH
+KNGXBAL	Kings Cross Ballast Sdg
+KNGXFD	Kings Cross F.D.
+KNGXYWJ	York Way North Jn
+KNLY	Kenley
+KNNGGLP	Kennington Goods Loop
+KNOKFHH	Knockshinnoch FHH
+KNOR523	Kings Norton Signal SY523
+KNOR529	Kings Norton Signal 529
+KNOROTP	Kings Norton OT Plant Dpt
+KNOWDL	Dale Lane G.F.
+KNSGHST	High Street Kensington L.T.
+KNTB57	Kintbury Signal UW57
+KNTN401	Knottingley SIG FE6418
+KNTN421	Knottingley Sig FE6421
+KNTNFHH	Knottingley TMD (FHH)
+KNTNGFD	Knottingley F.D.
+KNTNGSJ	Knottingley South Jn
+KNTNLIP	Knottingley T.M.D.
+KNTNYFD	Knottingley Depot
+KNTSHTN	Kentish Town
+KNUTSFD	Knutsford
+KOBLENZ	Koblenz Hbf
+KRBYSUM	Kirkby Summit SB
+KRKC	Kirkconnel
+KRKDLCS	Kirkdale C.S.
+KRKNWTN	Kirknewton
+KRKSLDL	Kirkstall Down Loop
+KRKSXO	Kirkstall Crossover
+KRKYLEJ	Kirkby Lane End Junction
+KRTNLMS	Kirton Lime Sdgs
+KSTP	Kirkby Stephen
+KSWNJN	Kingswinford Jn
+KTON	Kenton
+KVTNFHH	Kiveton Park (FHH)
+KYLEAKN	Kyleakin
+KYLELCE	Kyle of Lochalsh C.E.
+LACKGBF	LACKENBY SSI GBRF
+LACKNBY	Lackenby B.S.C.
+LADY668	Ladybank Sig 668
+LADYBNK	Ladybank
+LADYSTE	Ladybank S.& T.E.
+LAGYRED	Langley Redlands
+LAIRGCE	Lairg C.E.
+LAIRGOT	Lairg Oil Terminal
+LAISWJN	Laisterdyke Sig ML1558
+LAKNHTH	Lakenheath
+LANARK	Lanark
+LANBDRN	Llanbadarn
+LAND260	Llandudno Jn Sig. LJ260
+LAND70	Llandudno Jn Sig. LJ70
+LANDTC	Llandudno Jn. T.C.
+LANFABR	Aber Ground Frame
+LANGLEY	Langley
+LANGREC	Langley Recp Sdgs
+LAPFORD	Lapford
+LARA318	Plymouth Signal P318
+LARAST	Laira ISU (S&TE)
+LARBCE	Larbert C.E.
+LARBERN	Larbert North
+LARBRTY	Larbert S.S.
+LARKHAL	Larkhall
+LAVNGTN	Lavington
+LAWJDS	Law Jn Down Sidings
+LAWJUCE	Law Jn Up C.E.
+LAWRNGF	Lawrence Hill G.F.
+LAYTON	Layton
+LBGHJN	Loughborough Jn
+LBRFIBS	Tempsford IBS
+LCEILOB	Loch Eil Outward Bound
+LCHALRT	Lochailort
+LCHCCS	Lichfield City C.S.
+LCHESDE	Locheilside
+LCHMADY	Lochmaddy
+LCHT131	Lichfield Signal 1310
+LCHTCE	Lichfield T.V. C.E. Sdgs
+LCHTFIN	Fine Lane LC
+LCHTTVH	Lichfield Trent Valley HL
+LCHTTVL	Lichfield Trent Valley
+LCKRBCE	Lockerbie C.E.
+LCKRDPL	Lockerbie Down Loop
+LCKRUPS	Lockerbie Up Siding
+LCKWLOP	Leckwith Loop
+LDBRKJ	Ladbroke Grove
+LDLNGTN	Lidlington
+LDYBURN	Ladyburn T.C.
+LDYWJN	Ladywell Junction
+LEAGRVE	Leagrave
+LEAGSAN	Sandon (Beds)
+LEAJ	Lea Junction
+LEALHLM	Lealholm
+LEDB192	Ledburn Jn Signal TK3192
+LEDB428	Ledburn Signal TK1428
+LEDBRNJ	Ledburn Jn
+LEED190	Leeds Sig L190
+LEED615	Leeds Sig L3615
+LEED631	Leeds Sig L3631
+LEED774	LEEDS SIG L774
+LEED929	Leeds Sig L929
+LEEDFHH	Leeds Balm Rd Loco (FHH)
+LEEDORT	Leeds O.R.T.
+LEEDSEJ	Leeds East Jn
+LEEDSWJ	Leeds West Junction
+LEEESPR	Lee Spur
+LEESPRJ	Lee Spur Jn
+LEIGHK	Leigh (Kent)
+LEITBCC	Leith Docks Blue Circle
+LEITHFH	Leith Sth Fliner/Lafarge
+LEITSAI	Leith Docks SAI
+LELANTS	Lelant Saltings
+LENHAMX	Lenham Crossover (CTRL)
+LENHUS6	Lenham Up Siding No 6
+LENS	Lens
+LENZIE	Lenzie
+LEOMNST	Leominster
+LEST325	Leicester Signal LR325
+LEST327	Leicester Signal 327
+LESTBRG	Leicester Braunstone Gate
+LESTER	Leicester
+LESTHRJ	Humberstone Rd Jn
+LESTLIP	Leicester L.I.P.
+LESTRSJ	Leicester South Jn.
+LETEILA	Le Teil (Ardeche)
+LETNCMD	Leyton C.M.D.
+LEUCHMD	Leuchars M.O.D.
+LEWES	Lewes
+LEWESDS	Lewes Down Tamper Siding
+LEWISHM	Lewisham
+LEYLAND	Leyland
+LEYTNMR	Leyton Midland Road
+LFGNLC	Longforgan L.C.
+LGFD	Longfield
+LGHO	Langho
+LGRN	Langley Green
+LGRNYD	Langley Green Yd
+LHONSEA	Leigh-on-Sea
+LHRBT1	Heathrow Terminal 1 (SWT Bus)
+LHRBT4	Heathrow Terminal 4 (SWT Bus)
+LHVNBUS	Littlehaven Lambs Frm Rd
+LIFODWJ	Lifford West Jn
+LILBDGE	Lille Bridge Depot LUL
+LILLEFL	Lille Flandres
+LIMERCJ	Limerick Junction
+LINCFHH	Lincoln Terrace Sidings FL
+LINCLNC	Lincoln
+LINFST	Linford Street Jn
+LINZ	Linz
+LISK9	Liskeard Sig 9
+LISKDGF	Liskard Ground Frame
+LITLBRO	Littleborough
+LIVST	London Liverpool Street
+LLANDAF	Llandaf
+LLBSTRD	Llanbister Road
+LLDEILO	Llandeilo
+LLDODGF	Llandrindod Crossing
+LLDVNLC	Llandovery North L.C.
+LLFAIRC	Llanfair Caereinion
+LLGMMRW	Llangammarch
+LLGUNLO	Llangynllo
+LLHLETH	Llanhilleth
+LLNGYFL	Llangyfelach
+LLNWTMR	Llantwit Major
+LLTRNMJ	Llantarnam Jn
+LLWESWE	Llanwern Steelworks East
+LLWRDA	Llanwrda
+LLWYNYP	Llwynypia
+LLYSFGF	LLYSFAEN EMERGENCY GF
+LMBRYNG	Limbury Road North G.F.
+LMBRYSG	Limbury Road South G.F.
+LMNG128	Leamington Spa Signal 128
+LMNGDDS	Leamington Spa Down Dock
+LMNGSD4	Leamington Spa PLT 4 SDG
+LMNGTNS	Leamington Spa
+LNAB	Llanaber
+LNDC	Llandecwyn
+LNDNB11	London Bridge Plat 11
+LNDNB13	London Bridge Plat 13
+LNDNB16	London Bridge Plat 16
+LNDNBAL	London Bridge (Ballast)
+LNDNBDG	London Bridge
+LNDRBES	Landor St Bank Engine Sdgs
+LNDYW	Landywood
+LNGANPS	Longannet Power Stn
+LNGBCB	Church Brampton
+LNGBWL	Watford Lodge (LongBuckby)
+LNGEATN	Long Eaton
+LNGETNX	Long Eaton Town X
+LNGMGBR	Long Marston GBRf
+LNGNDRY	Longniddry
+LNGPCS	Longport Carless Solvents
+LNGPTDS	Longport Down Sdgs.
+LNGROCK	Long Rock
+LNGSEMD	Longsight T.M.D. (E)
+LNGSFLW	Longsight Wheel Lathe (FL)
+LNGSSTH	Longsight South
+LNGSTMD	Longsight T.M.D. (D)
+LNGSUDL	Longsight Up & Dwn Gds Lp
+LNGTSDG	Longtown Siding
+LNGWRTH	Langworth S.B.
+LNGY651	Langley Jn K651
+LNGY940	Langley Jn K940
+LNLNSB	Long Lane LC
+LNLT951	LINLITHGOW EL 951
+LNLTUPL	Linlithgow U.P.L.
+LNSD	Langside
+LOCHAWE	Loch Awe
+LOCKLAX	Lock Lane X
+LOGHBNJ	Loughborough North Jn
+LOGHBSH	Loughborough Brush
+LOGHHOH	Hotchley Hill E Leake GBRF
+LONB23	Longbridge Signal 23
+LONBE	Longbridge Car Terminal
+LONDNBS	London Baker Street
+LOOE	Looe
+LOSTCKP	Lostock
+LOUNOC	Lounge Open Cast
+LOVR243	Lovers Walk Signal T1243
+LOWDHAM	Lowdham
+LOWF203	Low Fell Sig T203
+LOWFELJ	Low Fell Jn
+LOWFRMT	Low Fell Royal Mail Tmnl
+LOWMOOR	Low Moor
+LOWRWSB	Low Row S.B.
+LOWSTFT	Lowestoft
+LPRESTN	Long Preston
+LRGN	Largin
+LRKFLDJ	Larkfield Jn
+LRNCURS	Laurencekirk U.R.S.
+LSTFCOL	Linkswood (COLAS)
+LSTH	Lostock Hall
+LSTOKNJ	Laverstock North Jn
+LSTW4	Lostwithiel Signal 4
+LSTWDGL	Lostwithiel D.G.L.
+LSYDNHM	Lower Sydenham
+LTCEADL	Letchworth A/D Line
+LTFDFHH	Latchford Sdgs (FLHH)
+LTHH	Lisvane & Thornhill
+LTLETNX	Little Eaton X
+LTLHCS	Littlehampton C.H.S.
+LTLHSHD	Littlehampton Shed
+LTLKMBL	Little Kimble
+LTNBZRD	Leighton Buzzard
+LTTLMLJ	Little Mill Jn
+LUDLOW	Ludlow
+LUGTKMA	Lugton Kemira
+LUTNAIR	Luton Airport
+LUTOALM	Luton Alma Street
+LUTOCRD	Luton Crescent Road
+LUTON	Luton
+LUTONNJ	Luton North Jn
+LUXULYN	Luxulyan
+LVNSTNS	Livingston South
+LVRPBTL	Liverpool Bulk Terminal
+LVRPCW	Liverpool Bulk TL C&W GBRF
+LVRPFHH	Liverpool Bulk Term (FHH)
+LVRPGDE	Liverpool Gladstone Dock
+LVRPLCL	Liverpool Central (Wirral)
+LVRPLSG	Liverpool Landing Stage
+LVRPLSL	Liverpool Lime Street LL/WL
+LVRPSJS	Liverpool St James
+LVRPSPY	Liverpool South Parkway
+LWELRSJ	Low Ellers Curve Jn
+LWERNRG	Llanwern RG (Colas)
+LWERTSG	Llanwern Tippler Sdg
+LWERXSG	Llanwern Exchange Sdgs
+LWLYSFT	Lawley Street F.L.T.
+LYDCEGB	Dungeness British Energy
+LYDNDUL	Lydney Down & Up Loops
+LYDNJCT	Lydney Junction
+LYMPSTC	Lympstone Commando
+LYNDHRD	Ashurst New Forest
+LYNMABJ	Alcan Branch Jn
+LYNMFHH	Lynemouth Power Stn (FHH)
+LYNMTHA	Lynemouth Alcan Works
+LYNMTHL	Lynemouth ALCAN EW&S
+LYTHAM	Lytham
+MACHENQ	Machen Quarry
+MACONVL	Macon-Ville
+MADE491	Madeley Jn (SALOP) SIG 491
+MADELYC	Madeley Chord Line
+MAERDY	Maerdy
+MAESTGW	Maesteg
+MAGOR	Magor
+MAINDEJ	Maindee East Jn
+MAINDWJ	Maindee West Jn
+MALRSTG	Mallerstang
+MALTKKA	Kirkham Abbey SB
+MANEA	Manea
+MANHRAN	Mannheim Rangierbahnhof
+MANNGTR	Manningtree
+MANNTNJ	Manningtree North Jn
+MANR350	Manor Park Sig 350/5083
+MANRPKJ	Manor Park Junction
+MANTMJ7	Manton Jn Signal MJ7
+MANTSDG	Manton Jn ACE SDG
+MARBORO	Marborogh High Street Bus
+MARCHUS	March Up R.S.
+MARG20	Margate Shunt Signal GE20
+MARGCHS	Margate C.H.S
+MARPLE	Marple
+MARSHJS	Marsh Jn Sidings
+MARYLBN	London Marylebone
+MARYUPL	Marylebone UPL
+MARYWRD	Marylebone Washer Road
+MASH	Mountain Ash
+MATLPR	Matlock Peak Rail
+MAUCLUS	Mauchline Up Sidings
+MAZEH	Maze Hill
+MBRK14P	Millbrook No 14 Points
+MBRK850	Millbrook Sig. E842
+MBRK940	Millbrook Sig E940
+MBRKDX	Millbrook Dock Exit
+MBROBPS	Masboro Booths P S
+MBRONJN	Masborough Jn
+MBROSTY	Masborough F.D.
+MCHLDVR	Micheldever
+MCHWFLT	Marchwood F.L.T.
+MCHYGLA	Glandyfi
+MCHYNLT	Machynlleth
+MDCL991	Midcalder Jn Sig EJ991
+MDCLDRL	Midcalder Jn Goods Loop
+MDLSAFH	Middlesbrough Ayrton (FHH)
+MDLSBRO	Middlesbrough
+MDLSDRS	Middlesbrough Ayrton (DRS)
+MDLSFD	Middlesbrough Goods Yard
+MDLSMRB	Middlesbrough Marsh Branch
+MDLSWDK	Middlesbrough West Dock
+MDNH291	Maidenhead 291 sig
+MDNHDE	Maidenhead East
+MDNNWTN	Maiden Newton
+MDVLLT	Maida Vale LT
+MEADWHL	Meadowhall
+MEDSTED	Medstead
+MELKSHM	Melksham
+MELMBC	Melton Blue Circle
+MELS	Meols
+MENAIBG	Menai Bridge
+MENSTOB	Otley Bus Station
+MEOLSCP	Meols Cop
+MERHDQ	Merehead Quarry
+MERLBKE	Merelbeke
+MERTHYR	Merthyr Tydfil
+METZ	Metz
+MFAM	Morfa Mawddach
+MFLDBS	Mansfield Bus Station
+MGMS127	Margam Sig. P.T.127
+MHERON	Martins Heron
+MIKLTRF	Mickle Trafford
+MILANPI	Milano Pioltello
+MILBRNJ	Millburn Jn
+MILESPL	Miles Platting
+MILFCDS	Milford Down Sidings
+MILFDWS	Milford West Sidings
+MILKNPK	Milliken Park
+MILNROW	Milnrow
+MINEBUT	Minehead Butlins
+MINEPAR	Minehead Parade
+MINMARS	Moreton-in-Marsh
+MINSTER	Minster
+MINTYX	Minety Crossing
+MIRADEB	Miranda De Ebro
+MIRFILD	Mirfield
+MISTDL	Mistley Down Loop
+MKHBCCE	Market Harborough CCE
+MKIN878	MARKINCH SIGNAL 878
+MKNSBUS	Milton Keynes City Centre
+MKTR	Market Rasen
+MLAIGCE	Mallaig C.E.
+MLBRKB	Millbrook (Bedfordshire)
+MLDSWTH	Mouldsworth
+MLDTHRD	Mauldeth Road
+MLFORD	Milford (Surrey)
+MLGV	Milngavie
+MLKR102	Melkridge Sig HW102
+MLLF	Millfield
+MLLMSDG	Millom Siding (EWS)
+MLLPTOP	Millport
+MLPT	Parc. Slip Celtic Energy
+MLPTW	Parc Slip Washery (ADV)
+MLRHEJN	Millerhill East Jn
+MLRHMEE	Millerhill M.& E.E.
+MLRHSB	Millerhill S.B.
+MLRHSTH	Millerhill Signal 24
+MLSECMB	Moulsecoomb
+MLTBCGB	Maltby Colliery GBRf
+MLTBFLF	Maltby Colliery Fastline
+MLTBNCB	Maltby Colliery
+MLTNFBY	Frisby
+MLTNMDL	Melton Mowbray Down Loop
+MLTNRBY	Rearsby LC
+MLTNSAX	Saxby
+MLVRNLK	Malvern Link
+MLVRWLP	Malvern Wells Loop
+MNCKCCC	Royston Monckton C.C.C.
+MNCRDGT	Deansgate
+MNCRDST	Deal Street
+MNCRLIR	Liverpool Road Manchester
+MNCRPES	Manchester Pic Engine SDG
+MNCRQMX	Dean Lane Quick Mix
+MNCRVEJ	Manchester Victoria East Jn
+MNCRVRS	Manchester Vic. (Rev.Sdg)
+MNKBLP	Monk Bretton Loop
+MNKRISB	Monks Risborough
+MNMNTLA	Monument Lane
+MNORBER	Manorbier
+MNTBLRD	Montbeliard
+MNTFLDS	Mountfield Sidings
+MNTGLDJ	Mount Gould Jn
+MNTJMJ7	Manton Jn Signal MJ7
+MNTNJN	Mountnessing Jn
+MNTWCJN	Manton Colliery Siding
+MODANE	Modane
+MOIRFHH	Moira Hicks Lodge FHH
+MOIRHIC	Moira Hicks Lodge
+MOLDJ	Mold Junction
+MONPELR	Montpelier
+MONTEWS	Montrose EWS
+MOORPIN	Pinner
+MORAR	Morar
+MORCMSJ	Morecambe South Jn
+MORETON	Moreton (Dorset)
+MORFNL	Moorfields HL/NL
+MORLASJ	Morlais Jn
+MORT586	Moorthorpe Signal L6586
+MORTHRP	Moorthorpe
+MOSEDCE	Mossend Delta Coal
+MOSEDGL	Mossend Down Goods Loop
+MOSEGAS	Mossend MG Gas Products
+MOSENDE	Mossend East Jn
+MOSENDW	Mossend West Jn
+MOSENY	Mossend
+MOSESTR	Mossend Shunt & Marshalling
+MOSEUFH	MOSSEND UP RECEPTION FLHH
+MOSEURT	Mossend Euroterminal
+MOSTFLR	Mostyn Docks (FLiner)
+MOSTSB	Mostyn Signal Box
+MOTFONT	Mottisfont & Dunbridge
+MOTH368	Mothwell Sig M368
+MOTH374	Motherwell SIG 374
+MOTH444	Motherwell Signal M444
+MOTHBRS	Motherwell Bridge Sidings
+MOTHDRS	Motherwell TMD (DRS)
+MOTHHGL	Hamilton Goods Loop
+MOTHSGL	Mottherwell Station Goods Loop
+MOTHUCE	Motherwell Up Civil Eng
+MOTHWRD	Motherwell W.R.D.
+MOTO	Moreton (Merseyside)
+MOULTON	Moulton
+MOUNTSS	Mountsorrel Sdgs
+MPRT	Maryport
+MRCH	March
+MRCHWJN	March West Jn
+MRGMAWE	Margam Abbey Works East
+MRGMEJ	Margam East Jn
+MRGMHOR	Margam Eng Sdg Repair Pnt
+MRGMMJN	Margam Moors Jn.
+MRGMTC	Margam T.C.
+MRGMYJN	Margam Yard Jn.
+MRHSCJ	Muirhouse Central Jn
+MRHSWS	Muirhouse Workshops
+MRKSDG	Market Harborough CCE SDGS
+MRKSTDL	Marks Tey Down Loop
+MRKSTGB	Marks Tey GBRF
+MRKTELN	East Langton
+MRKTHBJ	Market Harborough Jn
+MRLAJN	Moor Lane Junction
+MRLNTIL	Marsh Lane Tilcon
+MRPTHRP	Morpeth
+MRPTNJN	Morpeth North Jn
+MRRYTNL	Allanton Loop
+MRSD	Moorside
+MRSN	Marsden
+MRSTNGR	Marston Green
+MRTNCUT	Moreton Cutting
+MRTNONL	Moreton-on-Lugg
+MRYHILL	Maryhill
+MRYLAND	Maryland
+MSBD	Mossband
+MSGT	Moses Gate
+MSHFILD	Marshfield
+MSLH	Mossley Hill
+MSSC423	Manchester South Sig MS423
+MSSC739	Manchester South Sig MS1739
+MSSNDET	Mossend Down Yard GBRF
+MSTN	Moston
+MSTONEB	Maidstone Barracks
+MSTONEW	Maidstone West
+MSTOWUS	Maidstone West Up Sidings
+MTHLPS	Methil P.S.
+MTHRSCP	Scopwick
+MTRBDGJ	Mitre Bridge Jn
+MUCK	Muck
+MUIZEN	Muizen
+MULHNRD	Mulhouse Nord
+MURODS	Muir of Ord Down Sdg DCL
+MURTHLY	Murthly
+NABT	Newton Abbot
+NABTWJ	Newton Abbot West Junction
+NADINS	Nadins Disposal Point
+NAILSEA	Nailsea & Backwell
+NAIRNCE	Nairn Siding ISU (CE)
+NANTWLC	Willaston LC
+NARBRO	Narborough
+NAVGTNR	Navigation Road
+NBAR133	New Barnet Signal K133
+NBCKSDG	New Beckenham Siding
+NBLYACN	North Blyth Alcan
+NBLYFHH	North Byth (FLHH)
+NBLYLP	North Blyth Loop
+NBTN	New Brighton
+NBTNSD1	New Brighton Siding No 1
+NCRAGHA	Newcraighall
+NEAS25	Neasden South JN SIG ME25
+NEAS525	Neasden South Jn Sig ME525
+NEASCSG	Neasden Charrington Sdgs
+NEASDNS	Neasden South Sidings
+NEASFHH	Neasden Charrington FLHH
+NEASTC	Neasden T.C.
+NEATCE	Neath East (CE)
+NEEDHAM	Needham Market
+NEILTBS	Neilston Turnback Sdg
+NENGLNN	New England Nth Jn.
+NETHRTN	Nethertown
+NEUULM	Neu Ulm
+NEVLFHH	Neville Hill Depot (FHH)
+NEVLTMD	Neville Hill T&R.S.M.D
+NEWAHYK	Hykeham Crossroads
+NEWANSH	Newark Northgate Shunt Sdg
+NEWASWG	Southwell Westgate
+NEWB479	Newbury Ground Position Sig 479
+NEWB824	Newbury Signals 824
+NEWBRCE	Newbury Racecourse (CE)
+NEWBURY	Newbury
+NEWHVHA	Newhaven Day Aggregates
+NEWHVM4	Newhaven Marine No4 Sdg
+NEWHVNT	Newhaven Town
+NEWLANE	New Lane
+NEWPRTE	Newport (Essex)
+NEWSGAT	New Southgate
+NEWX573	New Cross Gate Sig L1573
+NEWXCSD	New Cross Gate C.S.D.
+NEWXGEL	New Cross Gate Station ELL
+NEWXMDP	New Cross Gate Mtnce Dpt
+NGWR	Nant Gwernol
+NHEY	New Hey
+NIDRINJ	Niddrie North Jn
+NIDRIWJ	Niddrie West Jn
+NINIANP	Ninian Park
+NKELSEY	North Kelsey
+NLNCLNJ	North Lincoln Jn
+NLRTEJN	Northallerton East Jn
+NLRTREV	Northallerton Rev Line
+NLSN	Nelson
+NMPT216	Northampton Signal RY1216
+NMPTBAY	Northampton Bay
+NMPTCMD	Northampton C.M.D.
+NMPTHHT	Hunsbury Hill Tunnel
+NMPTNCY	Northampton Castle Yard
+NMPTNNJ	Northampton North Jn
+NMPTNUS	Northampton Up Sidings
+NNRYMLJ	Nunnery Main Line Jn
+NNTN223	Nuneaton Signal NW4223
+NNTN242	Nuneaton Sig NW4242
+NNTN427	Nuneaton Sig NL3427
+NNTN511	Nuneaton Signal 511
+NNTNABJ	Nuneaton Abbey Jn
+NNTNASJ	Ashby Junction
+NNTNHS	Nuneaton HS/'A'Sdgs
+NNTNMYJ	Nuneaton Midland Yard Jn
+NNTYRNN	Nantyronen
+NORBURY	Norbury
+NORMGBF	Wakefield Europort GBRF
+NORMNTN	Normanton
+NORTONS	Norton South Jn.
+NORWBOP	Norwood Booking On Point
+NORWDJ	Norwood Junction
+NPLE813	North Pole Signal VC813
+NPLE820	North Pole Signal VC820
+NPLETB	North Pole Turnback Siding
+NQNSFRY	North Queensferry
+NRBITON	Norbiton
+NRCH141	Norwich Crown Point SG CP1491
+NRCH176	Crown Point Sig CO1762
+NRCHTC	Norwich T.C.
+NRCHTMD	Norwich C.Pt. T.&R.S.M.D
+NRMNSBY	Normans Bay
+NRTHCA	Northfleet - Coopers Arms
+NRTHFTL	Northfleet Lafarge
+NRWDJN	Norwood Jn.
+NSHMLC	Newsham L.C.
+NSJDRBY	North Stafford Jn
+NTAWTN	North Tawton
+NTHM842	Northam Sig. E842
+NTHMJN	Northam Jn
+NTHMUY	Southampton Up T.C.
+NTHNDGF	Northenden Ground Frame
+NTHNDNJ	Northenden Jn
+NTHNSHJ	Sharston Jn
+NTHOLTP	Northolt Park
+NTHPSB	Northorpe S.B.
+NTHRFLJ	Netherfield Jn
+NTHWCSJ	Northwich South Jn
+NTHWFHH	Oakleigh Sidings FLHH
+NTHWOS	Oakleigh Sidings
+NTNB	Norton Bridge
+NTNBSD	Norton Bridge Station Drv
+NTNG	Nottingham
+NTNGMEJ	Nottingham East Jn
+NTNGMJN	Mansfield Jn
+NTNGWOL	Woolaton
+NTRD	North Road
+NUNHEAD	Nunhead
+NUNTHRP	Nunthorpe
+NUTFBUS	Nutfield (Memorial Hall)
+NWAL21	North Walsham Sig TB21
+NWALSHM	North Walsham
+NWALW1	North WalshamSignal TB21
+NWBGCE	Newbridge ISU (CE)
+NWBIBG	New Biggin British Gypsum
+NWBIGBR	New Biggin (GBRF)
+NWBIREP	Newbiggin Wagon Repairs
+NWCMLM	New Cumnock Up Law Mining
+NWCMUGL	New Cumnock Up Goods Loop
+NWCROSS	New Cross
+NWCSCE	Newcastle Forth ISU (CE)
+NWCSRC	Regent Centre (Newcastle)
+NWCSTLL	Newcastle (Metro)
+NWEMJN	North Wembley Jn
+NWHLDRS	Newtonhill D.R.S.
+NWHYTHE	New Hythe
+NWLNDLJ	Newlands Loop Junction
+NWMILSJ	New Mills South Jn
+NWMKDWS	Newmarket Dower Wood Sdg
+NWPRBUS	Newport Bus Station
+NWPTCOU	Newport Courtybella Sdg
+NWPTDSG	Newport Docks (Simsgroup)
+NWPTGBR	Newport Docks (SIMS) GBRf
+NWRKCEJ	Newark Crossing East Jn
+NWSTEAD	Newstead
+NWTH	Newton for Hyde
+NWTL	Newton
+NWTLWJ	NEWTON WEST JN
+NWTN714	Newton Heath Sig.MN714
+NWTNHDD	Newton Heath T.M.D.
+NWTNLW	Newton-le-Willows
+NWTP	Newtown
+OAKHASH	Ashwell LC
+OBAN	Oban
+OCKENDN	Ockendon
+OKHMPFS	Okehampton Fore Street
+OKHMPWS	Okehampton West Street
+OKNSHWJ	Oakenshaw Jn
+OLDDEDW	Edwalton
+OLDHAMM	Oldham Mumps
+OLDKRDJ	Old Kent Road Junction
+OLDOCWM	OOC Carriage Wash
+OLDOEMU	Old Oak Common E.M.U.D.
+OLDOKCE	Old Oak Common East
+OLDORL	O.O.Common Reception Line
+OLDROAN	Old Roan
+OLDTRFD	Old Trafford
+OLRTCLJ	Ollerton Colly.Jn.
+ONIBURY	Onibury
+OOSTEND	Oostende
+ORBLTON	Orbliston
+OREE	Ore
+ORELPKH	Orrell Park
+ORPN009	Orpington Shunt Sig 2009
+ORPNGTD	Orpington E.M.U.D
+ORPNPL6	Orpington Platform 6
+ORTONMR	Orton Mere
+OTFORDJ	Otford Jn
+OTTERBS	Ottery St. Mary Broad St.
+OULTNBN	Oulton Broad North
+OUTWOOD	Outwood
+OXCRFCL	Oxcroft Colliery
+OXCRFJN	Oxcroft Jn
+OXENHLM	Oxenholme Lake District
+OXFD	Oxford
+OXFDBGF	Oxford Banbury Road G.F.
+OXFDBUS	Oxford Bus Station
+OXFDNNJ	Oxford North Jn.
+OXFDUDP	Oxford Up & Dn Passenger
+OXFDX26	Oxford Signal 26
+OXHP	Oxenhope
+OXLEUGL	Oxley Up Goods Loop
+OXMRSHX	Oxmarsh L.C.
+OXTE306	Oxted Signal 306
+OXTEDBY	Oxted Bay
+OXWLFHH	Oxwellmains Lafarge
+OXWLMNS	Oxwellmains Blue Circle
+PADT010	Paddington Sig. SN6010
+PADT028	Paddington Sig. SN28
+PADT034	Paddington Sig. SN34
+PADT093	Paddington Sig. SN93
+PADTNTT	Paddn Yd Marcon Topmix
+PAIGDVL	Paignton Queens Park DVLR
+PALL	Pallion
+PANGBRN	Pangbourne
+PANYPER	Pant-y-Peron
+PARBOLD	Parbold
+PARISLZ	Paris St Lazare
+PARK	Park
+PARRDGL	Par Down Goods Loop
+PARSNSJ	Parson Street Junction
+PARTON	Parton
+PATERTN	Patterton
+PBRO	Peterborough
+PBRO423	Peterborough Sig P423
+PBRO470	Peterborough Signal 470
+PBRO534	Peterborough Signal 534
+PBRO612	Peterborough Signal 612
+PBRO78	P'bro Sig P78
+PBRO799	Peterborough Sig P799
+PBROBST	Peterborough Bus Station
+PBROCTY	Peterborough Crescnt C.C.D
+PBROE	Peterborough East Jn.
+PBROFES	Peterboro Flyash Exm S
+PBROHS	Peterborough ISU (S&TE)
+PBROKLB	Kings Lynn Bus Station
+PBRONCE	Peterbro' North ISU (CE)
+PBROS67	Peterborough Sub Sig 67
+PBROSTL	Peterborough Spital Sdgs
+PBROVIR	Peterborough Virtual Q&T
+PBROWSR	Peterborough Washer
+PCHESTR	Portchester
+PCKHMRY	Peckham Rye (E)
+PDSTWBT	Padstow Old Rly Station
+PEAKFRS	Peak Forest South S.S.
+PEAKRMC	Peak Forest R.M.C. Sdgs
+PEARTRE	Peartree
+PEGSWD	Pegswood
+PELAWGL	Pelaw Goods Loops
+PELHBW	Branston & Washingborough
+PELP	Port Elphinstone
+PEMBRKD	Pembroke Dock
+PENACSJ	Penarth Curve South Jn
+PENCUPL	Pencoed Up Passenger Loop
+PENEW	Penge West
+PENGAMS	Pengam Sidings
+PENGFLT	Pengam F.L.T.
+PENMERE	Penmere
+PENTCE	Canton Penarth Curve CE
+PENZNCE	Penzance
+PENZTMD	Penzance T & RSMD
+PERANWL	Perranwell
+PERSHOR	Pershore
+PERTH	Perth
+PERTHCA	Perth C.A.F.P.
+PERTHHS	Perth L.I.P.
+PERTHOD	Perth Oil Depot
+PERTHST	Perth S.& T.E.
+PERTMU	Perth Muirton
+PETSWD	Petts Wood
+PEWSEY	Pewsey
+PHILPK1	Philips Park West Jn.
+PHLD	Priesthill
+PICDYCR	London Piccadilly Circus
+PICKNDL	Newton Dale Halt
+PILNING	Pilning
+PINHOE	Pinhoe
+PINXTON	Pinxton
+PITMDN	Pitmedden
+PITSEAU	Pitsea Up Siding
+PKHDNJN	Parkhead North Jn
+PKSDJT	Parkside Jn
+PKWD	Paddock Wood
+PKWD183	Paddock Wood Signal AD183X
+PKWDDSW	Paddock Wood Dn Sdg West
+PKWDWLP	Paddock Wood Whirlpool
+PLASTOW	Plaistow L.T.
+PLKLHDW	Pollokshields West
+PLKSHWW	Pollokshaws West
+PLMD766	Polmadie Sig G766
+PLMD779	Polmadie SIG 779
+PLMD789	Polmadie Signal 789
+PLMDBOC	Polmadie B.O.C.
+PLMDCMD	Polmadie Car M.D.
+PLMDEPS	Polmadie E.P.S.
+PLMS	Plumstead
+PLMSTCS	Plumstead C.H.S.
+PLOCKTN	Plockton
+PLPNUGL	Plumpton U.G.L.
+PLTNLFY	Poulton-le-Fylde
+PLUCKLY	Pluckley
+PLYM120	Plymouth Ground Posn Sig 120
+PLYMBAL	Plymouth Ballast Sdg
+PLYMTH	Plymouth
+PMAISE	Polmaise
+PNALLY	Penally
+PNGEE	Penge East
+PNMN4	Penmaenmawr Sig.PR4
+PNMNFHH	Penmaenmawr Quarry (FHH)
+PNRHCBR	Penrhiwceiber
+PNSHRST	Penshurst
+PNTH	Penrith North Lakes
+PNTHSJT	Penrith South Jn
+PNTYFYN	Pantyffynnon
+PNWTHRJ	Penwithers Jn
+PNYFDCS	Penyffordd Cement Sdgs
+POINTPJ	Point Pleasant Jn
+POLEFT	Poole Ferry Terminal
+POLM513	Polmont Jn Signal P513
+POLMONT	Polmont
+POLMUPS	Polmont U.P.L. (South)
+POMOHSP	Portsmouth Harbour - Ship
+PONSNDN	Ponsandane
+PONTYPL	Pontypool
+POOL17	Poole Signal P17
+POOLESS	Poole S.S.
+PORH	Porth
+PORTRSL	Portobello Russell J.G.
+POTR141	Potters Bar Signal K141
+POWELL	Powell
+POYNTON	Poynton
+PPANUPL	Prestonpans U.P.L.
+PRBR228	Pirbright Jn Signal WA395
+PRESCOT	Prescot
+PRFLFLT	Purfleet Deep Wtr Whf (FLT)
+PRFLTTT	Purfleet Dp Wtr Whf (RFD)
+PRHN	Penrhyndeudraeth
+PRIN178	Princes Risborough ME178 signal
+PRIN666	Princes Risborough ME666
+PRITLWL	Prittlewell
+PRKAKER	Kernick ECC Siding
+PRKJT	Park Jn
+PRKS021	Parkeston Sig P21
+PRKSCLH	Parkeston Carless Ref HSHT
+PRKSCRV	Parkeston Carless CRV HSHT
+PRKSGBR	Parkeston SS GBRF
+PRKSNFL	Parkeston New Yard FL
+PRKSTHS	Parkeston CS
+PRKSTM	Parkeston Maritime
+PRKSTSS	Parkeston Quay TSS
+PRKSUTP	Harwich Up Tip Sidings GBF
+PRNC848	Edinburgh Signal E848
+PRNTSQ	Princetown Square
+PROWFHH	Prince of Wales (FLHH)
+PROY	Park Royal
+PRSH	Portrush
+PRSPBUS	Preston Park (London Rd)
+PRSTDCD	Preston Deepdale C.C.D.
+PRSTFGT	Preston (Fishergate)
+PRSTNDK	Preston Docks
+PRSTNFJ	Preston Fylde Jn.
+PRSTNPF	Preston Docks Petrofina
+PRSTRES	Preston R.E.S
+PRSTSKB	Skew Bridge
+PRSTUGL	Preston Up Goods Loop
+PRTCICI	Port Clarence I.C.I
+PRTCLRP	Port Clarence PetroPlus
+PRTHMDG	Porthmadog
+PRTNGSS	Partington Shell Sdgs
+PRTSMTA	Portsmouth Arms
+PRYBR	Perry Barr
+PRYBRWJ	Perry Barr West Jn
+PSBY	Prestbury
+PSEABKR	Portsmouth & Ssea Bk Rd
+PSLDAWH	Portslade
+PSLY183	Paisley Signal PG 183
+PSLYCAN	Paisley Canal
+PSLYGST	Paisley Gilmour Street
+PSLYSTJ	Paisley St. James
+PSRN	Pensarn
+PSTH	Park South
+PTALCOR	Port Talbot Corus
+PTALUSD	Port Talbot Up Sidings
+PTBNFHH	Potland Burn (FHH)
+PTBRAUT	Portbury Automotive FHH
+PTBRCFL	Portbury Coal Terminal FLF
+PTBRGBF	Portbury Biomass GBRf
+PTBRYDK	Portbury Dock
+PTCKCE	Partick C.E.
+PTFTMHL	Pontefract Monkhill
+PTFTTSF	Pontefract Tanshelf
+PTLBGSC	Port Talbot Grange SDG ADV
+PTLBTAR	Port Tlbt Grange Sdgs Tarm
+PTLCURS	Pitlochry Up Refuge Sdg
+PTRCRFT	Patricroft
+PTRSUS	Petersfield Up Siding CE
+PULBRO	Pulborough
+PURL091	Purley Signal T.1091
+PURLBM	Purley Brett Marine
+PURLFY	Purley Foster Yeoman
+PURLTAM	Purley Yard Tamper Siding
+PUTNEY	Putney
+PVNSYBY	Pevensey Bay
+PWCKAPT	Prestwick International
+PWCKMBP	Prestwick B.P.Oil
+PWLHE	Pwllheli East
+PWLHELS	Pwllheli Station Sidings
+PYCMMER	Pontycymmer
+PYEBDGJ	Pye Bridge Jn
+PYEBT89	Pye Bridge JnSig.Tt89
+PYLE	Pyle
+QPRK	Queen's Park
+QPRKJ	Queen's Park Junction
+QUAKRSY	Quaker's Yard
+QUENCLS	Queenborough Car Ldg Sdgs
+QUIDECC	Quidhampton Sdgs E.C.C.
+QUNTRD	Quainton Road
+RADLETJ	Radlett Jn
+RADLTRR	Radlett Redland Roadstone
+RADYR	Radyr
+RAINHMK	Rainham (Kent)
+RAM5143	Ramsgate Signal EK5143
+RAMMIEX	RM Depot Exit Minster End
+RAMS13	Ramsgate Shunt Signal 13
+RAMSCWM	Ramsgate CWM Road
+RAMSEXT	Ramsgate Depot Exit
+RAMSGTE	Ramsgate
+RAMSUSW	Ramsgate Up Siding West
+RANNOCH	Rannoch
+RASSAU	Rassau
+RATCCS	Ratcliffe PS Cripple Sdg
+RATCHRN	Hathern
+RATCLFJ	Ratcliffe Jn
+RAVNHDJ	Ravenhead Jn
+RAVNHDS	Ravenhead Sdgs
+RAYLEGH	Rayleigh
+RAYNSPK	Raynes Park
+RBRTDS	Robertsbridge Down Sdg
+RBRTSBD	Robertsbridge
+RCHDLEJ	Rochdale East Jn
+RCHE	Roche
+RCHTBDJ	Rochester Bridge Jn
+RCHTULS	Rochester Up Layby Sdgs
+RCKRSCT	Rickerscote
+RDGLNJ	Reading Lane Jn
+RDHASDG	Reedham Tmpr Sdg (Norfolk)
+RDITBUS	Redditch Bus Station
+RDNG128	Reading Sig. TR128
+RDNG147	Reading Sig. TR147
+RDNG379	Reading Sig. TR379
+RDNG4AB	Reading Platforms 4A/4B
+RDNG534	Reading Sig. TR534
+RDNGBUS	Reading Bus
+RDNGKBL	Kennet Bridge Loop
+RDNGORJ	Oxford Road Jn
+RDNGSTJ	Reading Southern Jn
+RDNGTCC	Reading Depot Entrance C
+RDNGWTR	Reading Plant Depot WTR
+RECTRYJ	Rectory Jn
+REDBCEY	Redbridge C.E. Wks.
+REDBJN	Redbridge Junction
+REDCARC	Redcar Central
+REDCBSC	British Steel Redcar
+REDCRMT	Redcar B.S.C. (Min.T.)
+REDCROT	Redcar B.S.C. Ore T.
+REDFDJ	Redford Jn
+REDGBRF	Redcar Mineral Terminal G
+REDGGPK	Reading Green Park
+REDGWCV	Reading West Curve
+REDGWYD	Reading West Jn. N.Y.
+REDH322	Redhill Signal T1322
+REDH502	Redhill Sig.T502
+REDHILL	Redhill
+REDHPOD	Redhill Post Office Dock
+REDHUGL	Redhill Up Ton. Goods Loop
+REDISHS	Reddish South
+REDMTMC	Redmire Tarmac
+REEDHMS	Reedham
+REIG17	Reigate Shunt Signal R17
+RENIBKS	Renishaw Park H J Banks
+RENTON	Renton
+REST403	Reston Signal EG403
+RESTONC	Reston C.E.
+RGLS	Ravenglass
+RHDLFLS	Rheidol Falls
+RHIWBNA	Rhiwbina
+RHOSNGR	Rhosneigr
+RHYL	Rhyl
+RHYMNEY	Rhymney
+RHYMTRE	TREDEGAR
+RIBLHVQ	Ribblehead Virtual Quarry
+RICH398	Richmond Signal F398
+RICHNLL	Richmond North London Line
+RIDHBS	Ridham Dock B'wtrs Sdg
+RIDNGML	Riding Mill
+RINGMER	Ringmer Post Office
+RISCASJ	Risca South Jcn
+RMSWILP	Ramsgreave and Wilpshire
+RNHAME	Rainham (Essex)
+ROBY	Roby
+ROCK722	Rock Ferry Signal 722
+ROCKUDG	Rock Ferry Up & Down Goods
+ROGRBUS	Rogerstone Bus Link
+ROLSTN	Rolleston
+ROLVNDN	Rolvenden
+ROMF438	Romford Signal 438
+ROMF450	Romford Signal L450
+ROMFDRR	Romford Recp
+ROMFLEJ	Romford London End Jn
+ROMILEY	Romiley
+ROMS882	Romsey Signal E882
+ROMSEY	Romsey
+ROODEG	Rood End Goods
+ROPLBUS	Ropley (Anchor)
+ROSEST	Rose Street
+ROSGWJN	Rose Grove West Jn
+ROSLARE	Rosslare Harbour
+ROSSGF	Ross G.F.
+ROSYTH	Rosyth
+ROTH417	Rotherham Sig. S.417/9
+ROTH750	Holmes Curve Sig S750
+ROTHCEN	Rotherham Central
+ROTHHJN	Holmes Jn
+ROUENDD	Rouen D D
+ROUNDOK	Round Oak
+ROWLEYR	Rowley Regis
+ROYAOSD	Royal Oak Sidings
+ROYSLP	Royston Loop
+ROYSTON	Royston
+RPLANEX	Ripple Lane Exch Sdgs
+RPLL130	Ripple Lane Signal 1130
+RPLL808	Ripple Lane Signal 808
+RPLLADV	Ripple Lane Advenza FRT
+RPLLEP2	Ripple Lane Barking Yd EP2
+RPLLFDR	Ripple Lane FLT (DRS)
+RPLLGBF	Ripple Lane FLT (GBRF)
+RPLLLIP	Ripple Lane L.I.P.
+RPLLSTO	Ripple Lane Stora
+RPLLWSS	Ripple Lane West S.S.
+RSEHALJ	Rosehall Jn
+RSNGCJN	Rossington Colliery Jn
+RSNHEIM	Rosenheim
+RSTRFHH	Ravenstruther FHH
+RTFD156	Retford Sig. D156
+RTFD348	Retford Sig D1348
+RTFDLL	Retford Low Level
+RTFDTHR	Retford Thrumpton S.B.
+RTHGCE	Rutherglen C.E.
+RTHGNCJ	Rutherglen Central Jn
+RTHGNTC	Rutherglen Training Centre
+RTHGNWJ	Rutherglen West Jn
+RTHIMAY	Rothiemay
+RTHP	Ravensthorpe
+RUFDFHH	Rufford No.1 Stocking Site
+RUFDORD	Rufford
+RUGB165	Rugby Signal NR9165
+RUGB179	Rugby Signal RN4179
+RUGB304	Rugby Signal RC9304
+RUGB363	Rugby Signal NR5363
+RUGB649	Rugby Signal KR9649
+RUGB655	Rugby Signal KR9655
+RUGBCSF	Rugby Carriage Sidings (FL)
+RUGBDED	Rugby DED
+RUGBJAR	New Bilton, Rugby
+RUGBLHS	Rugby Loco Holding Sdgs.
+RUGBNJ	Rugby North Jn
+RUGBRTR	Rugby RTR Depot
+RUGBUSQ	Rugby Up Sdgs V.Q.
+RUGBYAS	Rugby Arrival Sidings
+RUGL	Rugeley Trent Valley
+RUGLCPL	Rugeley PS Cripple Siding
+RUGLGBR	Rugeley PS (FGD) GBRF
+RUGLTWN	Rugeley Town
+RUGLYSJ	Rugeley South Jn
+RUNCORN	Runcorn
+RUSHEYP	Rushey Platt
+RUTHWEL	Ruthwell
+RVNSNO4	Ravenscraig No4
+RYDCATS	Ryde Pier Head - Ship
+RYDEHOV	Ryde Hoverport
+RYDRBRW	Ryder Brow
+RYDSEMU	Ryde St Johns Road E.M.U.D
+RYEE27	Rye Signal RY27
+RYHPFHH	Ryhope Grange Sidings
+RYLSGBF	Rylstone Tilcon (GBRf)
+RYLSTON	Rylstone
+RYMYSGF	RHYMNEY SOUTH GF
+SACTON	South Acton
+SADWJN	St. Andrews Jn
+SAIR	Saltaire
+SALFDAS	Salfords Aggregate Sdg.
+SALWBNF	Salwick BNF
+SALZBRG	Salzburg
+SANDHRS	Sandhills Reversing Sdg
+SANQHAR	Sanquhar
+SARN	Sarn
+SASH	Saltash
+SAXILBY	Saxilby
+SBCH	Sandbach
+SBCHTC	Sandbach Town Centre
+SBOUBUS	Southbourne (A259)
+SBRMNDS	South Bermondsey
+SBRN	Saltburn
+SBURY	Southbury
+SBYDAS	Stalybridge Atochem Sdg.
+SCARBRO	Scarborough
+SCNT319	Scunthorpe Sig 319
+SCNTAGB	Scunthorpe Anchor (GBRF)
+SCNTAPP	Appleby LC
+SCNTCHP	Scunthorpe B.S.C.(C.H.P.)
+SCNTFDM	Scunthorpe Frodingham
+SCNTFLT	Scunthorpe B.S.C. (FLT)
+SCNTFOB	Scunthorpe Foreign Ore Jn
+SCNTHEC	Scunthorpe B.S.C.(Ent.C.)
+SCNTHRP	Scunthorpe
+SCNTMES	Scunthorpe Mills Exch Sdgs
+SCNTNPK	Scunthorpe N Park Dragonby
+SCNTROX	Scunthorpe Roxby Gullet FH
+SCNTSNJ	Santon New Jn
+SCNTTTC	Scunthorpe Trent T.C.
+SCRBSTR	Scrabster
+SCRPTON	Scropton
+SCTPASW	Scunthorpe Corus Rod Mill
+SDBKPST	Sudbrook Pumping Station
+SDBRYHR	Sudbury & Harrow Road
+SDFRDGB	Sudforth Lane Down (GBRF)
+SDFRTLA	Sudforth Lane Down (EWS)
+SDFRUFH	Sudforth Lane Up RS (FLHH)
+SDNSJN	St. Dennis Jn.
+SDOCPSA	South Dock Port of S'land
+SDONAFL	Swindon Preymesser AFL
+SDONBUS	Swindon Bus Station
+SDONEL	Swindon East Loop
+SDONLY	Swindon Loco Yard
+SDONSGB	Swindon Stores GBRF
+SDONSTO	Swindon Stores
+SDONTML	Swindon Frt Term'l Sth Mar
+SDRSFOT	Saundersfoot
+SDSD356	Sanderstead Signal T1356
+SEAFORD	Seaford
+SEAHAMH	Seaham Harbour
+SEAHFHH	Seaham Harbour (FHH)
+SEALSBA	Seal Sands BASF
+SEALSRL	Seal Sands Runround Loop
+SEAMWEV	Weaverthorpe LC
+SEERGRN	Seer Green and Jordans
+SELADRS	Sellafield (DRS)
+SELAS18	Sellafield Signal SD18
+SELBBNJ	Barlby North Jn
+SELBGBF	Selby (GB Railfreight)
+SELBUSD	Selby Up Sidings
+SELBYFD	Selby F.D. Viking SH
+SELH051	Selhurst Shunt Signal 1051
+SELKIRK	Selkirk
+SELLING	Selling
+SELSDN	Selsdon (Test trains only)
+SEMILLS	Sea Mills
+SESARDM	Southease
+SETNCEG	Seaton-O-T British Energy
+SETONJN	Seaton Jn
+SETTLEJ	Settle Jn
+SEVCPOT	Southend Victoria POT
+SEVCUSS	Southend Victoria Uss
+SEVNS29	Seven Sisters Signal L5511
+SEVS349	Severn Tunnel Jn Sig.N349
+SEVTJNS	Severn Tunnel Jn Sdgs
+SEVTNLJ	Severn Tunnel Junction
+SEVTUGL	Severn Tunnel Up Goods Loop
+SEYMOSS	Seymour RJB Mining
+SFLTJN	Southfleet Junction
+SFRD	Stretford
+SFRTMDH	Seaforth C.T. MDHC
+SGHTHE	Sighthill East Jn
+SGRLOAF	Sugar Loaf
+SHADXO	Shadwell Crossover
+SHALFDJ	Shalford Jn
+SHANKLN	Shanklin
+SHAPFHH	Shap Summit (FHH)
+SHAPHNQ	Shap Harrisons Quarry GBRf
+SHAPSMT	Shap Summit
+SHAPSTW	Shap Summit Quarry
+SHAWFDJ	Shawford Jn
+SHBNSJN	Sherburn Jn
+SHBRYMD	Shoeburyness M.O.D.
+SHCK413	Shacklegate Jn Signal F413
+SHCKLGJ	Shacklegate Jn
+SHDN	Shildon
+SHEFFLD	Sheffield
+SHEFS81	Sheffield Signal S81
+SHEFVIC	Sheffield Victoria
+SHEN517	Shenfield Signal
+SHENFDS	Shenfield CS
+SHENFMS	Shenfield Middle Sidings
+SHENUPS	Shenfield Up Siding
+SHEPUSD	Shepperton Up Sidings
+SHFTHLJ	Shaftholme Jn
+SHIFNAL	Shifnal
+SHIL483	Shieldmuir Signal M483
+SHILDMR	Shieldmuir
+SHIP	Shelwick Jn
+SHIRTB	Shirley Turnback Sidings
+SHLDJN	Shields Jn
+SHLDSMD	Shields T.M.D. (E)
+SHLJRSY	St. Helier (Jersey)
+SHNS	Shenstone
+SHOTTHL	Shotton High Level
+SHPCLPS	Tinsley Avesta (SPACE)
+SHPE	Stanhope
+SHPRTBJ	Shepreth Branch Jn
+SHPY	Shipley
+SHPYCEA	Shipley C Evans (ADVENZA)
+SHPYESJ	Esholt Junction
+SHPYSPJ	Springs Junction
+SHRBREJ	Shirebrook East Jn
+SHRBRSJ	Shirebrook South Jn
+SHRFDXR	Sherfield Cross Roads
+SHRGNNR	Sheringham N N Railway
+SHRKSKS	Shireoaks
+SHRMKT	Shoreham (Kent)
+SHRNGBR	Sheerness Steel GBRF
+SHRNSME	Sheerness Steel Marcroft
+SHRPCMT	Sharpnes Dks Coopers Metal
+SHRTLND	Shortlands
+SHRW34	Sutton Bridge Jn Sig 34
+SHRWBAF	Shrewsbury Abbey Foregate
+SHRWBNY	Shrewsbury New Yd
+SHRWCE	Severn Bridge CE Sdgs
+SHRWEBJ	English Bridge Junction
+SHRWSBJ	Sutton Bridge Jn
+SHTLSTN	Shettleston
+SHTLUP	Shettleston Up
+SHVNS	Stonehaven South
+SIBSEY	Sibsey S.B.
+SIDCUP	Sidcup
+SIDICKJ	Siddick Jn
+SILEBY	Sileby
+SILKMLC	Silkmlc
+SILVRCL	Silverdale Colliery
+SINFINC	Sinfin Central
+SINFSDG	Sinfin SDGS (COLAS)
+SIVRST	Silver Street
+SKEGNES	Skegness
+SKELTNB	Skelton Bridge Jn.
+SKENTON	South Kenton
+SKIRBYJ	South Kirkby Jn
+SKLWJN	Skellow Jn
+SKPT	Skipton
+SKPT549	SKIPTON STH JN SIG L4549
+SKPTDSS	Skipton Down Stabling Sdg
+SKPTSNJ	Skipton Down Through Sdg
+SLADEGD	Slade Green T&R.S.M.D
+SLADGEH	Slade Green Dpt East Hshnt
+SLADGUS	Slade Green Up C.H.S.
+SLAT975	SLATEFORD SIGNAL ES975
+SLATFCS	Slateford Carriage Sidings
+SLATRCE	Slateford Siding
+SLDLJN	Slade Lane Jn
+SLEFDNJ	Sleaford North Jn
+SLEGHTS	Sleights
+SLFDCT	Salford Crescent
+SLHRSTD	Selhurst T&R.S.M.D
+SLHRT76	Selhurst Depot Sig T76
+SLHRTS4	Selhurst Depot Sig S4
+SLNYBAL	Balderton Tunnel & LC
+SLOCHD	Slochd
+SLOUGH	Slough
+SLOUGHY	Slough U.G.L.
+SLSB217	Salisbury Sig.SY217
+SLSB43	Salisbry Singal Sy43
+SLSBECS	Salisbury East C.H.S.
+SLSBRY	Salisbury
+SLSBTJN	Tunnel Jn.
+SLSBY6B	Salisbury 6 Bay
+SLTHWTC	Slaithwaite Town Centre
+SLTLYDS	Saltley Dunns Siding
+SLTMRSH	Saltmarshe
+SLYNN	South Lynn
+SMBG	Smithy Bridge
+SMERTON	South Merton
+SMINCGB	Southminster BNFL (MAGNOX)
+SMLHLAG	Small Heath Lafarge AGG
+SMLHTHS	Small Heath Sth Jn
+SMTHKRS	Smethwick Rolfe Street
+SNAPE	Snape
+SNBKOV	Oakley Viaduct
+SNBKWYM	Wymington Tunnel
+SNDGVC	Sandringham Visitor Centre
+SNDP	Sundridge Park
+SNDRLND	Sunderland
+SNDRMSB	Monkwearmouth S.B.
+SNDWCH	Oldbury Sandwell Council House
+SNDYFD	Sandy Freight Depot
+SNETSHM	Snettisham Market Place
+SNGWDEP	Singlewell Depot
+SNGWUS	Singlewell Up Siding
+SNLWADV	Snailwell AFL
+SNLWLS	Snailwell Sdgs.
+SNSTGF	Coulsdon North Ground Frame
+SNTJ	St. James (Newcastle)
+SOAV	Stratford-upon-Avon
+SOAVEST	Stratford-upon-Avon East
+SOHOCE	Soho CE Sdgs
+SOHOEJ	Soho East Jn
+SOKEJN	Stoke Jn.
+SOLEST	Sole Street
+SOMEGF	Somerton Ground Frame
+SOMEVIA	Somerton Viaduct
+SOTDED	Southampton Eastern Docks
+SOTDNLU	Southampton W.Docks - NLU
+SOTHWAT	Southwaite
+SOTNTNQ	Southampton Town Quay
+SOTO779	Southampton Signal E779
+SOTO930	Southhampton Signal E930
+SOTO957	Southampton Signal E957
+SOTOEWS	Southampton M.C.T. EWS
+SOTON	Southampton Central
+SOTONBS	Southampton Down Bay Sdg
+SOTONSF	Southampton Stn Forecourt
+SOTPKWY	Southampton Airport Parkway
+SOUT149	Southport Signal 149
+SOUTHPT	Southport
+SPALDNG	Spalding
+SPALSDR	South Drove
+SPDNC	Spondon Courtaulds
+SPEANCE	Spean Bridge C.E.
+SPFD	Springfield
+SPHEADJ	Springhead Junction (CTRL)
+SPITAL	Spital
+SPLOTJ	Splott Junction
+SPRB	Springs Branch
+SPRBJN	Springs Branch Jn
+SPRGHTN	Sproughton
+SPRNDRS	Springburn (DRS)
+SPTCHLL	Spetchley Loop
+SPWDJN	Springwood Jn
+SRNAULC	Sarnau LC
+SRUISLP	South Ruislip
+STADJN	St. Andrews Jn.
+STAFDSS	Stafford Salop Sdgs
+STAFFNJ	Stafford North Jn
+STAFRD4	Stafford No4
+STAFTVJ	Stafford Trent Valley Jn
+STAI478	Staines Sig.F478
+STAINHS	Staines High Street
+STAINSE	Staines Sidings Ent-Exit
+STAJN92	St Andrews Jn Sig SY92
+STALBCY	St. Albans
+STAMFD	Stamford
+STAN201	Stanstead Airport Sig L1201
+STANBUS	Stansted Airport Bus Stop
+STANDGL	Stansted Down Goods Loop
+STANNJN	Stansted North Junction
+STANSOS	Stansted Oil Siding
+STAPLFD	Stapleford & Sandiacre
+STAS	St. Annes-on-the-Sea
+STAUSTL	St. Austell
+STBDERN	Ernesettle Sdgs MOD (Navy)
+STBDXVR	St. Budeaux Victoria Road
+STBLAFL	St Blazey Yard Advenza
+STBLTMD	St. Blazey L.I.P.
+STCALC	Stoke Canon LC
+STCN	Strathcarron
+STCNLC	Strathcarron LC
+STDE704	St. Denys Signal E704
+STDE904	St. Denys Signal E904
+STECHFD	Stechford
+STENTON	Stenton G.S.P.
+STERTH	St. Erth
+STEV656	Stevenage Up Fast Sig 656
+STEWRTN	Stewarton
+STFD	Stratford
+STFD249	Stratford Sig L249
+STFD259	Stratford Signal L259
+STFD613	Stratford LL Signal 613
+STFD703	Stratford Sig S703
+STFDFLT	Stratford F.L.T.
+STFDMBS	Stratford Market B&S Acids
+STFDRPD	Stratford Repair Depot
+STFDS53	Stratford Sig S53
+STFODOM	Stratford Intl (Domestic)
+STFORDI	Stratford International
+STHAFSS	Southall Locomotive Services LTD
+STHALL	Southall
+STHAWCR	Southall WCR
+STHBANK	South Bank
+STHBCLP	Tees Dock Cleveland Potash
+STHBEXP	Tees Dock BSC Export Berth
+STHBFLT	Tees Dock Corus (FLT)
+STHCENT	Southend Central
+STHFLDS	Southfields
+STHH	South Hylton (Sunderland Metro)
+STHLNSJ	St. Helens Junction
+STHRHMJ	Southerham Jn
+STHWICK	Southwick
+STIRLNG	Stirling
+STIRLSD	Stirling S & D Lines
+STIVES	St. Ives
+STJOHNS	St. John's
+STKG589	Stoke Gifford Sig B589
+STKGLMD	S Gifford Loco Mtenance Depot
+STKGTIP	Stoke Gifford Tip
+STKM	Stoke Mandeville
+STKP	Stockport
+STKPE1	Edgeley Jn No.1
+STKPVIA	Stockport Viaduct
+STKYBJN	Stockley Bridge Jn
+STLN42	St. Leonards Signal BJ42
+STLNDEM	St. Leonards Rly Eng Ltd
+STLNRWM	St. Leonards West Marina
+STLNSHN	St. Leonards Shunt Neck
+STLNWMD	St. Leonards WM TMD
+STMFDHL	Stamford Hill
+STMRYC	St. Mary Cray
+STNBGPK	Stonebridge Park
+STNBS34	Stonebridge Park Sig WS34
+STNE21	St Neots Signal  P21
+STNEOFD	St. Neots FD (EW&S)
+STNG33	Sittingbourne Signal EV33
+STNGBNB	Sittingbourne Bowaters
+STNGDGL	Sittingbourne Dn Gds Loop
+STNGV31	Sittingbourne Sig EV31
+STNHPO	Stonehouse Post Office
+STNICE	Carlisle St Nicholas CE
+STNLSAS	Stanlow Shell Arr Sdgs
+STNLWAT	Stanlow & Thornton
+STNPK	Sutton Park
+STNSFLH	Stansfield Hall
+STNTPLC	Stanton Gate PLC
+STNVSQ	St. Neots Square
+STOC907	Stockton 907 Sig
+STOCTAD	Stockton Thompson Advenza
+STOK271	Stoke Signal 271
+STOK462	Stoke Signal 462
+STOK540	Stoke Signal 540
+STOKCV	Cliffe Vale
+STOKEOT	Stoke-on-Trent
+STOKMAR	Marcroft Engineering
+STOKNWY	Stoke North West Yard
+STOKOTJ	Stoke Jn
+STOKTNR	LONGPORT EMSI
+STOKYRV	Stoke North West YD Reverse
+STON510	STONE SIG S510
+STONE	Stone
+STONEMS	Stone Meaford Siding
+STONSAN	Sandon
+STORUGL	Stormy Up Goods Loop
+STOTNHM	South Tottenham
+STPAMSC	St Pancras Maint SDG Connection
+STPARCJ	Regents Canal Junction
+STPHFHH	St. Phillips Marsh Depot FHH
+STPHHST	St. Philips Mrsh H S T D
+STPLNAR	Narroways Hill Junction
+STPNCVE	St. Pinnock Viaduct East
+STPXBOX	St Pancras Low Level
+STPXCYS	St. Pancras Churchyd Sdgs
+STRAHAU	Strasbourg Hausbergen
+STRBDEP	Stourbridge Jn Depot
+STRBDGT	Stourbridge Town
+STRBJGL	Stourbridge Jn Goods Loop
+STRE171	Streatham Sig VC171
+STRESJN	Streatham South Jn
+STRHCOM	Streatham Common
+STRHDS	Streatham Hill Down Siding
+STRHSH	Streatham Hill Shed
+STRINES	Strines
+STRNRR	Stranraer
+STRNTSH	Stranraer Stockton Haulage
+STRO625	Strood Shunt Signal NK1625
+STRO630	Strood Shunt Signal NK1630
+STRTDFS	Stourton D & F Steels
+STRTJN	Stourton Jn
+STRTNDS	Stourton Down Siding
+STRUD	Stroud
+STRWBHD	Strawberry Hill C.S.D.
+STSNJN	Stenson Jn
+STUTHAF	Stuttgart Hafen
+STVNNBS	Stevenston Nobel Siding
+STVNSTN	Stevenston
+STWHTNL	Strawberry Hill Tunnel
+STWRLDC	Stewartby Forders LDC
+STWT	Stewarts Lane
+STWTJN	Stewarts Lane Jn
+STWTTMD	Stewarts Lane T&RSMD
+STYAL	Styal
+SUCOTHV	Succoth Viaduct
+SUMRSTN	Summerston
+SUNDRTN	Saunderton
+SUNSJN	Sunnyside Jn
+SURB104	Surbiton Signal WK1104
+SURB534	Surbiton Sig.WK534
+SURBITN	Surbiton
+SURRQSJ	Surrey Quays Silwood Jn
+SUTNBIN	Sutton Bingham
+SUTTON	Sutton (Surrey)
+SUTW	Sutton Weaver
+SVNGLP	Sevington Loop
+SVNGTNS	Sevington Sidings
+SVNOCHS	Sevenoaks C.H.S
+SVNOES	Sevenoaks Engineers Siding
+SVNSICI	Severnside I.C.I. Sdg
+SWADGF	Swadlincote G.F.
+SWALE	Swale
+SWANMCS	Swansea Maliphant CSD
+SWANSED	Swansea Docks
+SWANSLW	Swansea Loop West
+SWCH	Sandwich
+SWELL1	Shepherds Well Signal SH1
+SWGBGE	Swing Bridge East
+SWINTN	Swinton (S.Yorks)
+SWLWJN	Swalwell Jn
+SWLY631	Swanley Signal VS631
+SWNAGE	Swanage
+SWNDRBY	Swinderby
+SWNLYCS	Swanley C.H.S
+SWNSGD	Swanscombe-George & Dragon
+SWRBBDG	Sowerby Bridge
+SWYTHLN	Swaythling
+SXMNDSG	Saxmundham Tamper Siding
+SYDNFD	Sydenham Hill-Fountain Dr.
+SYONLA	Syon Lane
+SYSTNNJ	Syston North Jn
+TABY	Thornaby
+TABYEJN	Thornaby East Jn
+TABYNO1	Thornaby Up Goods No1
+TABYWRD	Tees Shops EWS C&W
+TADWTH	Tadworth
+TAIN	Tain
+TALB	Talybont
+TALN544	Tallington Signal P544
+TALNGBR	Tallington Tarmac GBRF
+TALNRED	Tallington Redland Aggs
+TALRDIG	Talerddig
+TALRLLA	Llanbrynmair
+TANKRD	Tank Road Glasgow Central
+TAPLOW	Taplow
+TARRAGN	Tarragona
+TATNHMC	Tattenham Corner
+TAUN608	Taunton Signal 608
+TAUN617	Taunton Signal E617
+TAUNCE	Taunton ISU (CE)
+TAUNE22	Taunton Sig. E22
+TAUNTON	Taunton
+TAYBDRS	Tay Bridge Down Recep Sdg
+TCULFRY	Firsby
+TDITTON	Thames Ditton
+TEDNGTN	Teddington
+TEESBAL	Tees CE Sdgs
+TEESY	Tees N.Y.
+TEESYEE	Tees Yard East End
+TELFRDC	Telford Central
+TENBY	Tenby
+TERMJGW	Terminus Jn
+THABBEY	Thornton Abbey
+THBD200	Three Bridges Signal T1200
+THBD214	Three Bridges Signal 1214
+THBD737	Three Bridges 1737 points
+THBDDYD	Three Bridges Down Yard
+THBDHSD	Three Bridges Horsham Sdg
+THBDPAD	Three Bridges P.A.D.
+THBDUSN	Three Bridges Up Sdg North
+THBGJN	Thrybergh Jn
+THEA887	Theale Signal 887
+THEALAF	Theale Lafarge FHH
+THEALFY	Theale Foster Yeoman
+THEARCP	Theale Reception Sidings
+THET15	Thetford Ground Signal T15
+THETFD	Thetford
+THHLJN	Thornhill Jn
+THHT	Thatto Heath
+THIREWS	Thirsk Sidings EW&S
+THJU882	THAMESHAVEN SIG UR882
+THLGDBS	LONDON GATEWAY DBS SIDING
+THLGPAR	LONDON GATEWAY ARRIVAL
+THMS888	Thames Haven SIG UR888
+THMSFLI	London Gateway Frghtliner
+THMSL11	London Gateway Port LG11
+THMSL15	Thames Haven SIG LG15
+THMSMOB	Coryton Thames Haven TC
+THNGLEJ	Thingley East Junction
+THNGSDG	Thingley Junction Sidings
+THOKLB	Three Oaks - Lane Bridge
+THORNEJ	Thorne Jn
+THORNES	Thorne South
+THPLESS	Thorpe-le-Soken Siding
+THREESJ	Three Spires Jn
+THRISTE	Thrislington Steetley
+THRMRUS	Rushey Sdgs LC
+THRN568	Thornton North Sig ET568
+THRNGMM	Thornton Yard GM Mining
+THRNTNJ	Thornton North Jn
+THRNTTC	Thornton T.C.
+THRPSBJ	Thorpes Bridge Jn
+THRSCFH	THORESBY COLL JN (FHH)
+THRSFHH	Thoresby Colliery (FLHH)
+THRSNEC	Thoresby Sidings Neck
+THURSO	Thurso
+THUSTON	Thurston
+THYMGBR	thorney Mill GBRF
+THYMIL	Thorney Mill
+TILEH	Tile Hill
+TILHRST	Tilehurst
+TINSLEJ	Tinsley East Jn
+TINSLYY	Tinsley S.S.
+TINSTMD	Tinsley T.M.D.
+TIREE	Tiree
+TISBURY	Tisbury
+TIVIPW	Tiverton Parkway
+TLBYADV	Tilbury I.R.F.T Advenza Ft
+TLBYEJ	Tilbury East Jn
+TLBYPDR	Tilbury I.R.F.T (DRS)
+TLBYPGB	Tilbury I.R.F.T (GBRF)
+TLBYRCT	Tilbury R.C.T.
+TLBYRSD	Tilbury Riverside
+TLBYTWN	Tilbury Town
+TLBYWJ	Tilbury West Jn
+TMBORO	Templeboro' B.S.C. Recp.
+TMPCMSB	Templecombe Signal Box
+TMPLLEA	Lea Interchange (EWS)
+TMPLMEY	T.Mills E.Yd.(D.C.E) A.Rd.
+TMPLMWJ	Temple Mills West Jn
+TMPLORR	Orient Way Reception Road
+TMREUKL	Temple Mills Recp
+TMWTHHL	Tamworth High Level
+TNHLJCE	Townhill C.E.
+TNHLUGL	Townhill U.G.L.
+TNYPNDY	Tonypandy
+TODMRDN	Todmorden
+TOLWTH	Tolworth
+TOMATIN	Tomatin
+TONB139	Tonbridge Signal AD139
+TONB163	Tonbridge Signal AD163
+TONBDG	Tonbridge
+TONBDMS	Tonbridge Down Main Siding
+TONBES	Tonbridge Engineers Siding
+TONBPMY	Tonbridge Jubilee Sidings
+TONBULP	Tonbridge Up Loop
+TONDLFL	Tondu Llynfi Goods Loop
+TONFNAU	Tonfanau
+TOOTING	Tooting
+TOPLYPK	Topley Pike Bardon Agg
+TORCOIN	Tourcoing
+TORNGSP	Torness GSP
+TORQUAY	Torquay
+TOTNES	Totnes
+TOTODSL	Toton North Yard
+TOTON04	Toton Signal 4604
+TOTONJ	Toton Jn.
+TOTOWRD	Toton W.R.D.
+TOTTW	Totton West
+TOURNAI	Tournai
+TOWNGRN	Town Green
+TRAC	Thorney Rose and Crown
+TRAMINN	Tram Inn
+TREETNJ	Treeton Jn
+TREFRST	Treforest
+TREHSDS	Treherbert Sidings
+TREMANS	Tremains
+TRENTJ	Trent South Jn
+TREORCY	Treorchy
+TRFDFLF	Trafford Park SDGS (FLF)
+TRFDFLT	Trafford Park F.L.T.
+TRFDPEJ	Trafford Park East Jn
+TRFDPK	Trafford Park
+TRFDSRL	Trafford Park Sdgs Rec Ln
+TRIM617	Levington Signal CO617
+TRING	Tring
+TRINGCE	Tring Ce Sdgs
+TRMRWKS	Tremorfa Works
+TRNO	Thurnscoe
+TROON	Troon
+TROSEXC	Trostre Works Exchange Sdg
+TROWFLR	Flordon Level Xing
+TROWSE	Trowse
+TROWSOS	Trowse Old Station
+TRURO	Truro
+TRURYRD	Truro Yard
+TRWLBJN	Bennerley Jn
+TSDARPR	Tees-side Airport
+TTNH305	Tottenham Hale Sig L5305
+TUEBFHH	Tuebrook Sidings (FHH)
+TUEBRKS	Tuebrook Sidings
+TULS165	Tulse Hill Sig VC165
+TULS766	Tulse Hill Signal VC766
+TUNSFHH	Tunstead Sdgs (FHH)
+TUNWELL	Tunbridge Wells
+TURKYST	Turkey Street
+TURSDLS	Tursdale Siding
+TVST132	Plymouth Ground Signal 132
+TVST199	Plymouth Ground Signal 199
+TWCK401	Twickenham Signal F401
+TWCK406	Twickenham Signal F406
+TWCKNMJ	Twickenham Jn
+TWEDMTH	Tweedmouth F.D.
+TWOMBTM	Two Mile Bottom
+TWYF307	Twyford Sig TR307
+TYCROES	Ty Croes
+TYGLAS	Ty Glas
+TYNDRCE	Upper Tyndrum C.E.
+TYNDRMU	Upper Tyndrum
+TYNEMTH	Tynemouth (Metro)
+TYNEY	Tyne S.S.
+TYNSJBJ	St. James Bridge Jn
+TYSLRWS	Allen Rowland Works
+TYSLSTM	Tyseley Steam Trust
+TYSLUDJ	Tyseley Up & Down Slow Jn
+TYTHRNG	Tytherington
+UCKFILD	Uckfield
+UDNGTNJ	Uddingston Jn
+UFNGTN	Uffington
+UHALIFD	Upper Halliford
+ULCE120	Ulceby Sig UJ120
+ULCESJ	Ulceby South Junction
+ULLAPOL	Ullapool
+UNIV	University (Sunderland)
+UPHALL	Uphall
+UPMN852	Upminster Signal UR852
+UPMNSDG	Upminster Tamper Siding
+UPRHCES	Upper Holloway CE Siding
+UPRHUGL	Upper Holloway Up Gds Loop
+UPWEY	Upwey
+USAN	Usan
+UTOXDLC	Dovefields LC
+UTOXETR	Uttoxeter
+VALADOL	Valladolid
+VALLEY	Valley
+VAUXHAL	Vauxhall (X)
+VAXHALM	Vauxhall (Merseyrail)
+VICT12	Victoria Platform 12
+VICT14	Victoria Platform 14
+VICT17	Victoria Platform 17
+VICT19	Victoria Platform 19
+VICT47	Victoria Signal VS47
+VICT9	Victoria Platform 9
+VICTCRS	Victoria Carr Rd Sth
+VICTGCS	Victoria Grovenor Shed
+VICTRIC	London Victoria (C)
+VITTARL	Vittuone-Arluno
+VRGN491	Virginia Water Sig.F491
+VTRLWKS	Vitriol Works
+WACB	Bank (City)
+WACRJN	Whitacre Jn
+WACWCHS	Waterloo (W.& C.) C.H.S.
+WADH32D	Wadhurst-Opp PE432 Down
+WADH432	Wadhurst Sig PE432
+WADHUSD	Wadhurst Up Sidings
+WAINFLT	Wainfleet
+WALASYV	Wallasey Village
+WALKDEN	Walkden
+WALMER	Walmer
+WALSALL	Walsall
+WALSESD	Walsall Tamper Sidings
+WALSPJ	Pleck Jn
+WALSTSD	Walsall Brook Through Sdgs
+WALTONJ	Walton Jn
+WANB199	Wanborough Signal GD942
+WANSFD	Wansford
+WANTRD	Wantage Road
+WARE	Ware
+WARH17	Wareham Signal WR17
+WARHDS	Wareham Down Siding
+WARNHAM	Warnham
+WARWICK	Warwick
+WARWUNI	Warwick University
+WATERFD	Waterford
+WATFDJ	Watford Junction
+WATFDSM	Watford Stadium
+WATFJCS	Watford TIP Sdgs
+WATLGTN	Watlington
+WATONAS	Watton-at-Stone
+WATRBAL	Waterloo (Ballast)
+WATRCLJ	Carlisle Lane Jn
+WATRLMN	London Waterloo (Main)
+WATSTND	Whatstandwell
+WBLYTHR	West Blyth Recp.
+WBORO	Woodborough
+WBRNGBF	Westbourne Park (GBRF)
+WBTNCW	W.Burton Mainline C&W
+WBTNFHH	West Burton PS (FHH)
+WBTNPS	West Burton Power Station
+WBYFLET	West Byfleet
+WCALDER	West Calder
+WCHR	Whitchurch (Shropshire)
+WCHSHRJ	West Cheshire Jn
+WCKWART	Wickwar Tunnel
+WCOMBEP	Westcombe Park
+WCROYDN	West Croydon
+WDBDGBS	Wadebridge Bus Station
+WDGR920	Woodgrange Park Sig L920
+WDHAMFR	South Woodham Ferrers
+WDHOUSE	Woodhouse
+WDLESFD	Woodlesford
+WDMNSTR	Woodmansterne
+WDND478	Wood End Signal TB3478
+WDNSBRY	Wednesbury
+WDON	Wimbledon
+WDON135	Wdon Pk D No.1 UCS
+WDONCHS	Wimbledon C.H.S.
+WDONDHX	W'Don Dpt Staff Halt Exit
+WDONDSX	W'Don Dpt Wimbldn Stn Exit
+WDONEMU	Wimbledon E.M.U.D.
+WDONSS	Wimbledon South C.H.S.
+WDRNEX	Widdrington Exchange Sdgs
+WDRNGTN	Widdrington
+WDRYE	West Drayton East
+WDRYLAF	West Drayton Lafarge
+WDRYUGL	West Drayton Up Goods Loop
+WDULCRD	West Dulwich - Croxted Rd
+WEALCE	West Ealing ISU (CE)
+WEALINL	West Ealing Loop
+WEASTEJ	Weaste
+WEAVUPL	Weaver Jn Up Pass Loop
+WEEDBAN	Banbury Lane LC
+WEEDBGF	Blisworth Ground Frame
+WEEDSTO	Stow Hill Tunnel
+WEEDWIL	Wilton Marina
+WELHAMG	Welham Green
+WELISOM	Wellington (Somerset) CE
+WELNGTN	Wellington (Shropshire)
+WELSBUT	Buttington
+WELSHPL	Welshpool
+WELSRHY	Rhydwhimen L C
+WELSWBY	Westbury (Salop)
+WELTNBP	Welton B.P.
+WEMBLSM	Wembley Stadium
+WEMBYS	Wembley Sidings
+WEMYSSB	Wemyss Bay
+WENGTNX	Wennington Crossovers
+WENNGTN	Wennington
+WENTEWS	Wentloog Frht Trmnal (EWS)
+WESGTOS	Westgate-on-Sea
+WEST530	Westerton Sig YH530
+WEST536	Westerton Jn Sig YH536
+WETHCOR	Corby Gates SB
+WEXFDOH	Wexford
+WEYB102	Weybridge Sig. WK1102
+WEYBDGE	Weybridge
+WEYBLE	Weybridge London End
+WEYMJSE	Weymouth Jersey Sdg Extn
+WEYMOCS	Weymouth C.H.S.
+WEYMTHJ	Weymouth Jn
+WGSTGPJ	Glen Parva Jn
+WGSTS	South Wigston
+WHALLEY	Whalley
+WHAMHL	West Ham High Level
+WHATFHH	Whatley Quarry F Liner HH
+WHCH	Whitchurch (Sth Glamorgan)
+WHFD	Whitefield
+WHHSJN	Whitehouse Jn
+WHIFLET	Whifflet
+WHIFLTS	Whifflet South Jn
+WHINH	Whinhill
+WHLA34	Whitland Signal W34
+WHLAND	Whitland
+WHMDSTD	West Hampstead
+WHMP467	West Hampstead Signal 467
+WHMP605	West Hampstead Signal 605
+WHMPDCL	West Hampstead DCL
+WHMPSTM	West Hampstead Thameslink
+WHORNDN	West Horndon
+WHSTBLE	Whitstable
+WHTBDGE	Whitley Bridge
+WHTCHRH	Whitchurch (Hants)
+WHTEHSJ	Whitehouse Jn (Teesside)
+WHTLSER	Whittlesea Recp.
+WHTMGRP	Whitemoor Repair Pt GBRF
+WHTSXSG	Whites Crossing Sdg
+WHTTONJ	Whitton Jn
+WHWLL	Whitwell
+WHYTELF	Whyteleafe
+WICHNRJ	Wichnor Jn
+WICKGF	Wick G.F.
+WIDNES	Widnes
+WIDNSTL	Widnes Tanhouse Ln (Blue C)
+WIENNWB	Wien Nordwestbahnhof
+WIGACAN	Wigan Canal Sidings
+WIGANBH	Wigan Boars Head G.F.
+WIGANNW	Wigan North Western
+WIGASJN	Wigan South Jn
+WIGAWSB	Wigan Wallgate SB
+WIGTWAV	Waver Viaduct
+WIKFDSD	Wickford Down Siding
+WILDJN	Willingdon Jn
+WILNECT	Wilnecote
+WILTONJ	Wilton Jn
+WIMB827	Wimbledon Signal VC827
+WINCHLS	Winchelsea
+WINCSEA	Winchelsea - Sea Road
+WINETGL	Winnersh Triangle
+WISBBUS	Wisbech Bus Station
+WISHAW	Wishaw
+WITEHIL	Whitehill, Prince of Wales
+WITHMDL	Witham Down Loop
+WITHSDG	Witham Up Tamper Siding
+WITNGTN	Whittington
+WITTON	Witton
+WKFLDCC	Wakefield K.Whithams Cobra
+WKFLDGL	Wakefield Kirkgate GD Loop
+WKFLDWG	Wakefield Westgate
+WKFLKST	Wakefield Kirkgate S&TE
+WKILBRD	West Kilbride
+WKIR597	West Kirby Signal 597
+WKIRSD2	West Kirby Siding No 2
+WKK1211	Wakefield West Sig: K1211
+WKNT2SB	Workington Main No.2 SB
+WKNTDJ	Workington Derwent Jn
+WKNTDRS	Workington Docks (DRS)
+WKNTMBI	Moss Bay Ironworks
+WLBCCLJ	Welbeck Colliery Jn
+WLBCGBR	Welbeck Colliery (GBRF)
+WLDMILL	Wildmill
+WLDNGHM	Woldingham
+WLGFTWN	Wallingford Town Hall
+WLMRGRN	Woolmer Green Jn.
+WLMSL	Wilmslow
+WLNDNJN	West London Junction
+WLNGBNJ	Wellingborough North Jn
+WLNGBUS	Wellingborough Up T.C.
+WLNGIRC	Irchester
+WLNTNON	Willington
+WLSD038	Willesden Signal 1038
+WLSD044	Willesden Signal 1044
+WLSD107	Willesden Sig WM623
+WLSD301	Willesden Sig 301 (Up DC)
+WLSD34	Wembley Signal WM830
+WLSDBFL	Willesden Brent SDGS
+WLSDBRN	Willesden Brent DRS
+WLSDBSJ	Wembley Yard South Jn
+WLSDEUT	Willesden Euroterminal
+WLSDFFS	Willesden Ferrous Fragment
+WLSDHLJ	Willesden H.L.J.
+WLSDJHL	Willesden Jn. High Level
+WLSDLUC	Willesden Jn LL Up EMU C-O
+WLSDNFS	Willesden 'F' Sidings
+WLSDNNJ	Willesden North Jn
+WLSDRRJ	Willesden Railnet Jn
+WLSDSWS	Willesden S.W.S.
+WLSDWLJ	Willesden West Londn Jn
+WLTNFHH	Wilton Power Station (FHH)
+WLTNICI	Wilton I.C.I.
+WLVR	Wolverton
+WLVRTCS	Wolverton Centre Sdgs
+WLWY184	Welwyn GC Sig K184
+WLWYNGC	Welwyn Garden City
+WLWYREV	Welwyn G.C. Rev. Sdgs.
+WMBY	Wembley Central
+WMBYDC	Wembley Central DC
+WMBYEFT	Wembley Eur Frt Ops Cntre
+WMBYURR	Wembley Signals WM929/931
+WMBYWLF	Wembley TC Wheel Lathe
+WMOR	Woodsmoor
+WMWD	Williamwood
+WNCFETC	Winchfield E.T.C.
+WNCFILD	Winchfield
+WNCHRBS	Winchester Baltic Siding
+WNCHSTR	Winchester
+WNDSWRD	Wandsworth Road
+WNGTJN	Wooden Gate Jn.
+WNORWOD	West Norwood
+WNSFD	Winsford
+WNSUMJN	Wensum Junction
+WODBDGE	Woodbridge
+WOKI100	Woking Signal WK506
+WOKI12P	Woking 2245 points
+WOKI208	Woking Signal WK1208
+WOKI214	Woking Signal WK 1214
+WOKI610	Woking Signal WK610
+WOKIDRP	Woking Down Recp
+WOKINGB	Woking Bay
+WOKINGS	Woking Station
+WOKIUYD	Woking Up Yard
+WOKIV28	Woking Signal WK507
+WOKIV99	Woking Signal WK608
+WOKN15	Wokingham Signal Wm15
+WOLEYCS	Woolley Coal Sdgs S.B.
+WOLSETC	Woolston Emer Trail Xover
+WOLWCHA	Woolwich Arsenal
+WONNAZE	Walton-on-the-Naze
+WOOL	Wool
+WOOLMOD	Wool M.O.D. Siding
+WORC34	Worcester Signal TJ34
+WORCCE	Worcester ISU (CE)
+WORCMSD	Worcester Middle Siding
+WORCS52	Worcs Shrub Hill Sig 52
+WORCS67	Worcester Signal 67
+WORCSFS	Worcester Foregate Street
+WORCSY	Worcester T.C.
+WORCTJN	Tunnel Jn
+WORK260	Worksop Signal WP260
+WORKDAV	Worksop FD Davis & Son
+WORKMGR	Worksop M.G.R. Depot
+WORKROC	Worksop Rockware Glass
+WORKSPE	Worksop East S.B.
+WORKSPW	Worksop West S.B.
+WORKWRD	Worksop W.R.D.
+WORLEJ	Worle Jn
+WORTHNG	Worthing
+WRABNES	Wrabness
+WRCSTRP	Worcester Park
+WRDLRJB	Wardley RJB Mining
+WRENRF	Reeds Farm LC
+WREXCV	Cefn Viaduct
+WREXHMC	Wrexham Central
+WREXHMN	Wrexham North
+WRGT	Warrington Central
+WRGTNBQ	Warrington Bank Quay
+WRGTRM2	Warrington Royal Mail (GB)
+WRGTRTS	Warrington Refuse T.S.
+WRGTWON	Walton Old N.Y.
+WRGWOJN	Walton Canal Sidings FHH
+WRMNBGS	Warminster Army (MOD) Sdgs
+WRMNUS	Warminster Up Siding
+WRNGTNJ	Werrington Jn
+WRNTHPS	Wrenthorpe Recp.
+WRPLSDN	Worplesdon
+WRUI579	West Ruislip Signal ME579
+WRUIGBR	West Ruislip LUL Dept GBRF
+WRUILUL	West Ruislip L.U.L. Depot
+WRWCKRD	Warwick Rd for Old Trffrd
+WSBG	Welshs Bridge
+WSHWDH1	Washwood Heath West Jn
+WSHWDHR	Washwood Heath R.M.C.
+WSHWHDS	Washwood Heath Down Sdgs
+WSHWHMC	Washwood Heath Met.Cammel
+WSHWHUS	Washwood Heath Up Sidings
+WSLE	West St.Leonards
+WSMARE	Weston-super-Mare
+WSTB105	Westbury Sig. W105
+WSTBDRC	Westbury Down Recp
+WSTBDTS	Westbury dn Trowbridge sid
+WSTBRDY	Westbury Down T.C.
+WSTBRYW	Westbury
+WSTFELD	Westfield Opencast
+WSTG732	Westbury Ground Pos W732
+WSTLCE	Westerleigh ISU (CE)
+WSTLGHM	Westerleigh Murco
+WSTRFLD	Westerfield
+WSTSTRT	West Street
+WTCR	Whitecraigs
+WTHH	Wath
+WTHRFHH	West Thurrock Sidings FHH
+WTLEFDR	Whittlesford Recp.
+WTLYWXO	Wortley West Crossover
+WTNBSFY	Wootton Bassett Fostr Ymn
+WTREPWY	Water Eaton Parkway
+WTRNHF	Wateringbury Hop Farm
+WTRSHMR	Wittersham Road
+WVLEBUS	Waterlooville (Precinct)
+WVRM66	Wolverhampton 66 Sig
+WVRM74	Wolverhampton Signal 74
+WVRMHTJ	Heath Town Jn
+WVRMSRJ	Stafford Rd Jn
+WVRTREJ	Wavertree Jn
+WVRTTEC	Wavertree Technology Park
+WWRTHNG	West Worthing
+WYBN	Weybourne
+WYGN	Wylde Green
+WYLYAHB	Wylye AHB
+WYMN35	Wymondham Signal W35
+WYMNDLA	Wymondham Lane
+WYREVIA	Wyre Viaduct
+YAAM	Yarm
+YARMCHS	Yarmouth C.H.S.
+YARMREC	Yarmouth Recp.
+YATEMDL	Yate Middle
+YATLHL	Yateley (Handford Lane)
+YATLVL	Yateley (Vigo Lane)
+YATTON	Yatton
+YMTHIOW	Yarmouth (I.O.W.)
+YOKER	Yoker
+YORK	York
+YORK246	York Sig Y246
+YORKBOT	Bootham
+YORKCRW	York Thrall Europa
+YORKEGT	York Engineers Traingle
+YORKFAS	York GR Shed
+YORKGBF	York Holgate Siding (GBRf)
+YORKHLG	York Holgate Sidings
+YORKNRA	York Warehouse NRM Annexe
+YORKPCK	Pickering Eastgate
+YORKSCA	York Scarborough Bridge Jn
+YORKTPE	York Siemens Trans Systems
+YORKWRD	York EWS Stabling Point
+YORKYNF	York Yard North (FLHH)
+YORKYSJ	York Yard South Jn
+YOVI23	Yeovil Junction Signal YJ23
+YOVI723	Yeovil Jn Signal 4723
+YOVIJDP	Yeovil Jn Dn Main Platform
+YOVIJS	Yeovil Junction Sidings
+YOVILCD	Yeovil Jn Coal Depot
+YOVILPE	Yeovil Pen Mill (X)
+YOVILPS	Yeovil Pen Mill Station
+YSTRADM	Ystrad Mynach
+YSTRDMN	Ystrad Mynach North
+YTRHOND	Ystrad Rhondda
