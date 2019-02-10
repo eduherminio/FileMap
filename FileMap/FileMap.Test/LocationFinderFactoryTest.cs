@@ -1,41 +1,44 @@
-﻿using System;
+﻿using FileMap.Impl;
+using System;
 using Xunit;
 
 namespace FileMap.Test
 {
-    public class LocationFinderFactoryTest
+    public class LocationFinderFactoryTest : BaseFileMapTest
     {
-        private const string _inputFile = "TestFixtures/input.txt";
-        private const string _locationsFile = "TestFixtures/locs.txt";
+        private readonly ILocationFinderFactory _locationFinderFactory;
 
-        private string OutputFile() => $"TestFixtures/output_{Guid.NewGuid().ToString()}.out";
+        public LocationFinderFactoryTest()
+        {
+            _locationFinderFactory = new LocationFinderFactory();
+        }
 
         [Fact]
         public void GetLocationFinder()
         {
             string outputFile = OutputFile();
 
-            ILocationFinder locationFinder = LocationFinderFactory.GetLocationFinder(_inputFile, outputFile, _locationsFile);
+            ILocationFinder locationFinder = _locationFinderFactory.GetLocationFinder(_inputFile, outputFile, _locationsFile);
 
-            Assert.Equal(locationFinder, LocationFinderFactory.GetLocationFinder(_inputFile, outputFile, _locationsFile));
+            Assert.Equal(locationFinder, _locationFinderFactory.GetLocationFinder(_inputFile, outputFile, _locationsFile));
         }
 
         [Fact]
         public void ShouldNotGetLocationFinderProvidingNonExistingInputFile()
         {
-            Assert.Throws<ArgumentException>(() => LocationFinderFactory.GetLocationFinder($"C:/{Guid.NewGuid().ToString()}", OutputFile(), _locationsFile));
+            Assert.Throws<ArgumentException>(() => _locationFinderFactory.GetLocationFinder($"C:/{Guid.NewGuid().ToString()}", OutputFile(), _locationsFile));
         }
 
         [Fact]
         public void ShouldNotGetLocationFinderProvidingNonExistingLocalizationsFile()
         {
-            Assert.Throws<ArgumentException>(() => LocationFinderFactory.GetLocationFinder(_inputFile, OutputFile(), $"C:/{Guid.NewGuid().ToString()}"));
+            Assert.Throws<ArgumentException>(() => _locationFinderFactory.GetLocationFinder(_inputFile, OutputFile(), $"C:/{Guid.NewGuid().ToString()}"));
         }
 
         [Fact]
         public void ShouldNotGetLocationFinderProvidingNonExistingOutputFileParentFolder()
         {
-            Assert.Throws<ArgumentException>(() => LocationFinderFactory.GetLocationFinder(_inputFile, "NonExistingFolder/output.out", _locationsFile));
+            Assert.Throws<ArgumentException>(() => _locationFinderFactory.GetLocationFinder(_inputFile, "NonExistingFolder/output.out", _locationsFile));
         }
     }
 }

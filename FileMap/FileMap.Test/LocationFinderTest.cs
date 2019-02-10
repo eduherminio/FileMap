@@ -1,23 +1,26 @@
-using System;
+using FileMap.Impl;
 using System.IO;
 using System.Threading.Tasks;
 using Xunit;
 
 namespace FileMap.Test
 {
-    public class LocationFinderTest
+    public class LocationFinderTest : BaseFileMapTest
     {
-        private const string _inputFile = "TestFixtures/input.txt";
         private const string _expectedOutputFile = "TestFixtures/output.txt";
-        private const string _locationsFile = "TestFixtures/locs.txt";
 
-        private string OutputFile() => $"TestFixtures/output_{Guid.NewGuid().ToString()}.out";
+        private readonly ILocationFinderFactory _locationFinderFactory;
+
+        public LocationFinderTest()
+        {
+            _locationFinderFactory = new LocationFinderFactory();
+        }
 
         [Fact]
         public async Task MapLocations()
         {
             string outputFile = OutputFile();
-            ILocationFinder finder = LocationFinderFactory.GetLocationFinder(_inputFile, outputFile, _locationsFile);
+            ILocationFinder finder = _locationFinderFactory.GetLocationFinder(_inputFile, outputFile, _locationsFile);
 
             await finder.MapLocations();
 
@@ -38,7 +41,7 @@ namespace FileMap.Test
         public async Task MapLocationsOverridingFilePaths()
         {
             string initialOutputFile = OutputFile();
-            ILocationFinder finder = LocationFinderFactory.GetLocationFinder(_inputFile, initialOutputFile, _locationsFile);
+            ILocationFinder finder = _locationFinderFactory.GetLocationFinder(_inputFile, initialOutputFile, _locationsFile);
 
             string finalOutputFile = OutputFile();
             await finder.MapLocations(_inputFile, finalOutputFile, _locationsFile);

@@ -1,25 +1,14 @@
-﻿using FileMap.Impl;
-using System;
+﻿using System;
 using System.Collections.Concurrent;
 using System.IO;
 
-namespace FileMap
+namespace FileMap.Impl
 {
-    /// <summary>
-    /// Handles ILocationFinder instances
-    /// </summary>
-    public class LocationFinderFactory
+    public class LocationFinderFactory : ILocationFinderFactory
     {
         private static readonly ConcurrentDictionary<int, ILocationFinder> _locationFinders = new ConcurrentDictionary<int, ILocationFinder>();
 
-        /// <summary>
-        /// Gets an ILocationFinder instance
-        /// </summary>
-        /// <param name="inputFilePath">Input file path</param>
-        /// <param name="outputFilePath">Output file path (will be overwritten)</param>
-        /// <param name="locationsFilePath">Locations file path</param>
-        /// <returns></returns>
-        public static ILocationFinder GetLocationFinder(string inputFilePath, string outputFilePath, string locationsFilePath)
+        public ILocationFinder GetLocationFinder(string inputFilePath, string outputFilePath, string locationsFilePath)
         {
             ValidateFilePaths(inputFilePath, outputFilePath, locationsFilePath);
 

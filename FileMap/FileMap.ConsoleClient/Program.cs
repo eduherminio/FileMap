@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FileMap.Impl;
+using System;
 using System.Diagnostics;
 using System.Threading.Tasks;
 
@@ -6,6 +7,8 @@ namespace FileMap.ConsoleClient
 {
     public static class Program
     {
+        private readonly static ILocationFinderFactory _locationFinderFactory = new LocationFinderFactory();
+
         public static async Task Main(string[] args)
         {
             if (args.Length == 3)
@@ -23,7 +26,7 @@ namespace FileMap.ConsoleClient
         private static async Task MapLocations(string inputFile, string outputFile, string locationsFile)
         {
             Stopwatch watch = Stopwatch.StartNew();
-            ILocationFinder locationFinder = LocationFinderFactory.GetLocationFinder(inputFile, outputFile, locationsFile);
+            ILocationFinder locationFinder = _locationFinderFactory.GetLocationFinder(inputFile, outputFile, locationsFile);
 
             Console.WriteLine($"Mapping from {inputFile} to {outputFile} using {locationsFile}");
 
