@@ -331,3 +331,7 @@ ASALocalRun/
 
 # .out files
 *.out
+
+# Compressed files
+*.7z
+*.zip
